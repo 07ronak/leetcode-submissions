@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/07ronak/leetcode-submissions/tree/master/0015-3sum) |
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/07ronak/leetcode-submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/07ronak/leetcode-submissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -43,6 +44,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/07ronak/leetcode-submissions/tree/master/0015-3sum) |
 | [2402-meeting-rooms-iii](https://github.com/07ronak/leetcode-submissions/tree/master/2402-meeting-rooms-iii) |
 ## Simulation
 |  |
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/07ronak/leetcode-submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/07ronak/leetcode-submissions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
