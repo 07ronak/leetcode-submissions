@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/07ronak/leetcode-submissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1912-design-movie-rental-system](https://github.com/07ronak/leetcode-submissions/tree/master/1912-design-movie-rental-system) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/07ronak/leetcode-submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -22,6 +23,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
 | [1912-design-movie-rental-system](https://github.com/07ronak/leetcode-submissions/tree/master/1912-design-movie-rental-system) |
 | [2402-meeting-rooms-iii](https://github.com/07ronak/leetcode-submissions/tree/master/2402-meeting-rooms-iii) |
 ## Design
@@ -45,4 +47,12 @@
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/07ronak/leetcode-submissions/tree/master/2402-meeting-rooms-iii) |
+## Math
+|  |
+| ------- |
+| [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
+## Matrix
+|  |
+| ------- |
+| [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
 <!---LeetCode Topics End-->
