@@ -14,21 +14,25 @@ var detectCycle = function(head) {
     let fast = head
     let slow = head
 
-    while(fast && fast.next){
-        fast = fast.next.next
+    while(fast!==null && fast.next!==null){
         slow = slow.next
+        fast = fast.next.next
+
         if(slow===fast){
             break
         }
     }
 
-    if(!fast || !fast.next) return null
+    // If no cycle exists
+    if (fast === null || fast.next === null) {
+        return null;
+    }
 
-    fast = head
+    slow = head
 
-    while(fast!==slow){
-        fast = fast.next
+    while(slow!==fast){
         slow = slow.next
+        fast = fast.next
     }
 
     return fast
