@@ -20,6 +20,7 @@ var twoEditWords = function(queries, dict) {
             for(let i=0; i<len; i++){
                 if(word[i]!==q[i]){
                     count++
+                    if(count>2) break
                 }
             }
 
