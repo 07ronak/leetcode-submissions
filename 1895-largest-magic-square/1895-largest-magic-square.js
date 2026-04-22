@@ -6,52 +6,52 @@ var largestMagicSquare = function(grid) {
     const rows = grid.length
     const cols = grid[0].length
 
-    let max = Math.min(rows,cols)
+    const max = Math.min(rows,cols)
 
-    for(let size = max; size>1; size--){
-        for(let i=0; i<rows-size+1; i++){
-            for(let j=0; j<cols-size+1; j++){
-                if(isMagic(grid,i,j,size)) return size
+    for(let size=max; size>=2; size--){
+        for(let row =0; row+size<=rows; row++){
+            for(let col=0; col+size<=cols; col++){
+                if(isMagic(grid,row,col,size)){
+                    return size
+                }
             }
         }
-    }
+    }   
 
     return 1
 };
 
 function isMagic(grid,r,c,size){
-    //first row sum
     let sum = 0
     for(let i=0; i<size; i++){
         sum += grid[r][c+i]
     }
-    //console.log(sum)
-    let d1 = 0
-    let d2 = 0
-    //check diagonal first
+
+    //check diagonals first
+    let dia1 = 0
+    let dia2 = 0
     for(let i=0; i<size; i++){
-        d1 += grid[r+i][c+i]
-        d2 += grid[r+i][c+size-i-1]
+        dia1 += grid[r+i][c+i]
+        dia2 += grid[r+i][c+size-i-1]
     }
-    //console.log(d1,"and",d2)
-    if(d1!==sum) return false
-    if(d2!==sum) return false
+    if(dia1!== sum || dia2!==sum) return false
 
-    for(let j=0; j<size; j++){
-        let col = 0
-        for(let i=0; i<size; i++){
-            col += grid[i+r][c+j]
-        }
-        if(col!==sum) return false
-    }
-
+    //check rows
     for(let i=1; i<size; i++){
-        let row = 0
+        let rs = 0
         for(let j=0; j<size; j++){
-            row += grid[i+r][c+j]
+            rs += grid[r+i][c+j]
         }
-        if(row!==sum) return false
+        if(rs!==sum) return false
     }
 
+    //check cols
+    for(let i=0; i<size; i++){
+        let cs = 0
+        for(let j=0; j<size; j++){
+            cs += grid[r+j][c+i]
+        }
+        if(cs!==sum) return false
+    }
     return true
 }
