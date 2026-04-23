@@ -13,6 +13,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/07ronak/leetcode-submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2402-meeting-rooms-iii](https://github.com/07ronak/leetcode-submissions/tree/master/2402-meeting-rooms-iii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/07ronak/leetcode-submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2615-sum-of-distances](https://github.com/07ronak/leetcode-submissions/tree/master/2615-sum-of-distances) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/07ronak/leetcode-submissions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Greedy
 |  |
@@ -34,6 +35,7 @@
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
 | [1912-design-movie-rental-system](https://github.com/07ronak/leetcode-submissions/tree/master/1912-design-movie-rental-system) |
 | [2402-meeting-rooms-iii](https://github.com/07ronak/leetcode-submissions/tree/master/2402-meeting-rooms-iii) |
+| [2615-sum-of-distances](https://github.com/07ronak/leetcode-submissions/tree/master/2615-sum-of-distances) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/07ronak/leetcode-submissions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Design
 |  |
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [1895-largest-magic-square](https://github.com/07ronak/leetcode-submissions/tree/master/1895-largest-magic-square) |
+| [2615-sum-of-distances](https://github.com/07ronak/leetcode-submissions/tree/master/2615-sum-of-distances) |
 ## Linked List
 |  |
 | ------- |
