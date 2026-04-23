@@ -3,35 +3,32 @@
  * @return {number[]}
  */
 var distance = function(nums) {
-    const n = nums.length
-    let map = new Map()
-    let res = new Array(n).fill(0)
+    const n = nums.length;
+    let res = new Array(n).fill(0);
+    let map = new Map();
 
-    for(let i=0; i<n; i++){
-        const num = nums[i]
-        if(!map.has(num)){
-            map.set(num,[])
-        }
-        map.get(num).push(i)
+    for (let i = 0; i < n; i++) {
+        if (!map.has(nums[i])) map.set(nums[i], []);
+        map.get(nums[i]).push(i);
     }
 
-    for(let [_,arr] of map){
-        let len = arr.length
+    for (let [_, arr] of map) {
+        const len = arr.length;
 
-        if(len<=1) continue
-
-        let sum = 0
-        for(let j=0; j<len; j++){
-            res[arr[j]] += (arr[j] * j) - sum
-            sum += arr[j]
+        // Left pass: for each arr[j], add arr[j]*j - sum(arr[0..j-1])
+        let prefix = 0;
+        for (let j = 0; j < len; j++) {
+            res[arr[j]] += arr[j] * j - prefix;
+            prefix += arr[j];
         }
 
-        sum = 0
-        for(let j=len-1; j>=0; j--){
-            res[arr[j]] += sum - (arr[j] * (len-j-1))
-            sum += arr[j]
+        // Right pass: for each arr[j], add sum(arr[j+1..end]) - arr[j]*(len-1-j)
+        let suffix = 0;
+        for (let j = len - 1; j >= 0; j--) {
+            res[arr[j]] += suffix - arr[j] * (len - 1 - j);
+            suffix += arr[j];
         }
     }
 
-    return res
+    return res;
 };
