@@ -10,6 +10,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/07ronak/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/07ronak/leetcode-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/07ronak/leetcode-submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/07ronak/leetcode-submissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1895-largest-magic-square](https://github.com/07ronak/leetcode-submissions/tree/master/1895-largest-magic-square) |
@@ -27,11 +28,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/07ronak/leetcode-submissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/07ronak/leetcode-submissions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/07ronak/leetcode-submissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Hash Table
 |  |
@@ -77,6 +80,7 @@
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/07ronak/leetcode-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/07ronak/leetcode-submissions/tree/master/1895-largest-magic-square) |
 ## Dynamic Programming
 |  |
@@ -102,6 +106,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/07ronak/leetcode-submissions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Graph Theory
 |  |
