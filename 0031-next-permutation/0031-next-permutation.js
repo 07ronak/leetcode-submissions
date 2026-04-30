@@ -1,27 +1,38 @@
+/**
+ * @param {number[]} nums
+ * @return {void} Do not return anything, modify nums in-place instead.
+ */
 var nextPermutation = function(nums) {
-    let i = nums.length - 2;
+    const n = nums.length
 
-    // Step 1: Find first decreasing element from the right
-    while (i >= 0 && nums[i] >= nums[i + 1]) {
-        i--;
+    if(n===1) return
+    if(n===2){
+        nums.reverse()
+        return
     }
 
-    // Step 2: If found, find element just larger than nums[i]
-    if (i >= 0) {
-        let j = nums.length - 1;
-        while (nums[j] <= nums[i]) {
-            j--;
+    let i = n-2
+
+    while(i>=0 && nums[i]>=nums[i+1]){
+        i--
+    }
+
+    if(i>=0){
+        let j = nums.length-1
+        while(nums[j]<=nums[i]){
+            j--
         }
-        [nums[i], nums[j]] = [nums[j], nums[i]];
+        [nums[j],nums[i]] = [nums[i],nums[j]]
     }
 
-    // Step 3: Reverse the suffix
-    let left = i + 1;
-    let right = nums.length - 1;
+    i = i+1
+    let right = n-1
 
-    while (left < right) {
-        [nums[left], nums[right]] = [nums[right], nums[left]];
-        left++;
-        right--;
+    while(right>i){
+        let temp = nums[right]
+        nums[right] = nums[i]
+        nums[i] = temp
+        right--
+        i++
     }
 };
