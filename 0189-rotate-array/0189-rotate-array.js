@@ -5,23 +5,22 @@
  */
 var rotate = function(nums, k) {
     const n = nums.length
-    k = k % n
 
+    k = k % n
     if(k===0) return
 
-    rev(nums,0,n-1)
-
-    rev(nums,0,k-1)
-    rev(nums,k,n-1)
+    reverse(nums,0,n-1)
+    reverse(nums,0,k-1)
+    reverse(nums,k,n-1)
 };
 
-function rev(arr,l,r){
-    while(r>l){
-        let temp = arr[r]
-        arr[r] = arr[l]
-        arr[l] = temp
-        r--
-        l++
+function reverse(arr,left,right){
+    while(right>left){
+        let temp = arr[left]
+        arr[left] = arr[right]
+        arr[right] = temp
+        left++
+        right--
     }
     return arr
 }
