@@ -17,22 +17,25 @@ var nextPermutation = function(nums) {
         i--
     }
 
-    if(i>=0){
-        let j = nums.length-1
-        while(nums[j]<=nums[i]){
-            j--
-        }
-        [nums[j],nums[i]] = [nums[i],nums[j]]
+    if(i===-1){
+        nums.reverse()
+        return
     }
 
-    i = i+1
-    let right = n-1
+    let j = n-1
+    while(nums[j]<=nums[i]){
+        j--
+    }
+    [nums[j],nums[i]] = [nums[i],nums[j]]
 
-    while(right>i){
-        let temp = nums[right]
-        nums[right] = nums[i]
+    i = i+1
+    j = n-1
+
+    while(j>i){
+        let temp = nums[j]
+        nums[j] = nums[i]
         nums[i] = temp
-        right--
+        j--
         i++
     }
 };
