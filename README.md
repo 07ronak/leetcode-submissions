@@ -7,6 +7,7 @@
 | [0031-next-permutation](https://github.com/07ronak/leetcode-submissions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/07ronak/leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/07ronak/leetcode-submissions/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/07ronak/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/07ronak/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/07ronak/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/07ronak/leetcode-submissions/tree/master/0189-rotate-array) |
@@ -83,6 +84,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/07ronak/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/07ronak/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/07ronak/leetcode-submissions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/07ronak/leetcode-submissions/tree/master/0788-rotated-digits) |
@@ -92,6 +94,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/07ronak/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/07ronak/leetcode-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
