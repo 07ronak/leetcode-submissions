@@ -50,6 +50,7 @@
 | [0041-first-missing-positive](https://github.com/07ronak/leetcode-submissions/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0229-majority-element-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/07ronak/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
 | [1912-design-movie-rental-system](https://github.com/07ronak/leetcode-submissions/tree/master/1912-design-movie-rental-system) |
 | [2402-meeting-rooms-iii](https://github.com/07ronak/leetcode-submissions/tree/master/2402-meeting-rooms-iii) |
@@ -123,6 +124,7 @@
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/07ronak/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0796-rotate-string](https://github.com/07ronak/leetcode-submissions/tree/master/0796-rotate-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/07ronak/leetcode-submissions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/07ronak/leetcode-submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -194,4 +196,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/07ronak/leetcode-submissions/tree/master/0796-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/07ronak/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
