@@ -116,6 +116,7 @@
 | ------- |
 | [0015-3sum](https://github.com/07ronak/leetcode-submissions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/07ronak/leetcode-submissions/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/07ronak/leetcode-submissions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/07ronak/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/07ronak/leetcode-submissions/tree/master/0189-rotate-array) |
@@ -156,6 +157,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/07ronak/leetcode-submissions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Stack
