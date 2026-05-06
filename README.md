@@ -19,6 +19,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/07ronak/leetcode-submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/07ronak/leetcode-submissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1861-rotating-the-box](https://github.com/07ronak/leetcode-submissions/tree/master/1861-rotating-the-box) |
 | [1895-largest-magic-square](https://github.com/07ronak/leetcode-submissions/tree/master/1895-largest-magic-square) |
 | [1912-design-movie-rental-system](https://github.com/07ronak/leetcode-submissions/tree/master/1912-design-movie-rental-system) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/07ronak/leetcode-submissions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -100,6 +101,7 @@
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/07ronak/leetcode-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1861-rotating-the-box](https://github.com/07ronak/leetcode-submissions/tree/master/1861-rotating-the-box) |
 | [1895-largest-magic-square](https://github.com/07ronak/leetcode-submissions/tree/master/1895-largest-magic-square) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/07ronak/leetcode-submissions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/07ronak/leetcode-submissions/tree/master/3225-maximum-score-from-grid-operations) |
@@ -124,6 +126,7 @@
 | [0189-rotate-array](https://github.com/07ronak/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/07ronak/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [1861-rotating-the-box](https://github.com/07ronak/leetcode-submissions/tree/master/1861-rotating-the-box) |
 ## String
 |  |
 | ------- |
