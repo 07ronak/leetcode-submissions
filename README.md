@@ -41,6 +41,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0101-symmetric-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/07ronak/leetcode-submissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/07ronak/leetcode-submissions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -156,6 +157,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0101-symmetric-tree) |
 | [0279-perfect-squares](https://github.com/07ronak/leetcode-submissions/tree/master/0279-perfect-squares) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/07ronak/leetcode-submissions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -238,4 +240,12 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/07ronak/leetcode-submissions/tree/master/0148-sort-list) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
