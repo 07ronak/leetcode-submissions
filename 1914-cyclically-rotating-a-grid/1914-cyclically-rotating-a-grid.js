@@ -12,7 +12,7 @@ var rotateGrid = function(grid, k) {
     let right = cols -1
     let bottom = rows -1
 
-    while(bottom>=top && right>=left){
+    while(bottom>top && right>left){
         const layer = []
 
         //top row
