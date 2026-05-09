@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/07ronak/leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/07ronak/leetcode-submissions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/07ronak/leetcode-submissions/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/07ronak/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/07ronak/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/07ronak/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/07ronak/leetcode-submissions/tree/master/0189-rotate-array) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/07ronak/leetcode-submissions/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/07ronak/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/07ronak/leetcode-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -116,6 +118,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/07ronak/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0279-perfect-squares](https://github.com/07ronak/leetcode-submissions/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/07ronak/leetcode-submissions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/07ronak/leetcode-submissions/tree/master/0788-rotated-digits) |
