@@ -13,6 +13,9 @@ var longestBalanced = function (s) {
             let flag = true;
             const c = s.charCodeAt(j) - 97;
             let val = ++cnt[c]
+
+            if(res >= (j-i+1)) continue
+
             for (const x of cnt) {
                 if (x > 0 && x !== val) {
                     flag = false;
