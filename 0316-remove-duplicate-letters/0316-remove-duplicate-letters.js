@@ -1,14 +1,16 @@
 var removeDuplicateLetters = function(s) {
+    const n = s.length
 
     let last = {}
-    for(let i=0;i<s.length;i++){
+
+    for(let i=0; i<n; i++){
         last[s[i]] = i
     }
 
     let stack = []
     let seen = new Set()
 
-    for(let i=0;i<s.length;i++){
+    for(let i=0; i<n; i++){
         let c = s[i]
 
         if(seen.has(c)) continue
