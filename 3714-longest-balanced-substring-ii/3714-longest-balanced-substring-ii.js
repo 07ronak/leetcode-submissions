@@ -7,55 +7,62 @@ var longestBalanced = function(s) {
     if(n<3) return n
 
     let maxLen = 2
-    //case 1: count single letters only
+
+    //case 1: single char
     let streak = 1
+
     for(let i=1; i<n; i++){
         if(s[i]===s[i-1]){
             streak++
         } else{
             streak = 1
         }
-        maxLen = Math.max(maxLen, streak)
+        maxLen = Math.max(maxLen,streak)
     }
-    if(maxLen===n) return maxLen
 
-    //case 2: double characters
-    const pairs = [['a','b'],['a','c'],['b','c']]
+    if(maxLen===n) return n
+
+    //case 2: double chars
+    let pairs = [["a","b"],["b","c"],["c","a"]]
     for(let [c1,c2] of pairs){
-        let balance = 0
         let map = new Map([[0,-1]])
+        let balance = 0
 
         for(let i=0; i<n; i++){
-            const char = s[i]
-            if(char===c1) balance++
-            else if(char===c2) balance--
-            else{
+            const c = s[i]
+
+            if(c===c1){
+                balance++
+            } else if(c===c2){
+                balance--
+            } else{
                 balance = 0
-                map.clear()
+                map = new Map()
             }
 
             if(map.has(balance)){
-                maxLen = Math.max(maxLen, i-map.get(balance))
+                maxLen = Math.max(maxLen, i - map.get(balance))
             } else{
                 map.set(balance,i)
             }
         }
     }
-    if(maxLen===n) return maxLen
+    if(maxLen===n) return n
 
-    //case 3: all three character considered
-    let c = [0,0,0];
+    //case 3: all 3 chars
+    let count = [0,0,0]
     let map = new Map([["0,0",-1]])
     for(let i=0; i<n; i++){
-        const char = s[i]
-        if(char==="a") c[0]++
-        else if(char==="b") c[1]++
-        else c[2]++
+        const c = s[i]
 
-        let key =`${c[0]-c[1]},${c[0]-c[2]}`
+        if(c==="a") count[0]++
+        else if(c==="b") count[1]++
+        else count[2]++
+
+        let key = `${count[0]-count[1]},${count[0]-count[2]}`
 
         if(map.has(key)){
-            maxLen = Math.max(maxLen, i-map.get(key))
+            maxLen = Math.max(maxLen, i - map.get(key))
         } else{
             map.set(key,i)
         }
