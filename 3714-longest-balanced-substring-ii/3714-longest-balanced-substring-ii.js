@@ -6,7 +6,7 @@ var longestBalanced = function(s) {
     const n = s.length
     if(n<3) return n
 
-    let maxLen = 1
+    let maxLen = 2
     //case 1: count single letters only
     let streak = 1
     for(let i=1; i<n; i++){
@@ -32,7 +32,6 @@ var longestBalanced = function(s) {
             else{
                 balance = 0
                 map.clear()
-                //map.set(0,i)
             }
 
             if(map.has(balance)){
@@ -41,7 +40,6 @@ var longestBalanced = function(s) {
                 map.set(balance,i)
             }
         }
-        //console.log(map)
     }
     if(maxLen===n) return maxLen
 
