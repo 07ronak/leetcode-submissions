@@ -260,6 +260,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/07ronak/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/07ronak/leetcode-submissions/tree/master/0401-binary-watch) |
 ## String Matching
 |  |
 | ------- |
@@ -304,4 +305,8 @@
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/07ronak/leetcode-submissions/tree/master/3719-longest-balanced-subarray-i) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/07ronak/leetcode-submissions/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
