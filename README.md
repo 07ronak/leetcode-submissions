@@ -118,6 +118,7 @@
 | [0189-rotate-array](https://github.com/07ronak/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/07ronak/leetcode-submissions/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/07ronak/leetcode-submissions/tree/master/0396-rotate-function) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/07ronak/leetcode-submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/07ronak/leetcode-submissions/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/07ronak/leetcode-submissions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -261,6 +262,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/07ronak/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/07ronak/leetcode-submissions/tree/master/0401-binary-watch) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/07ronak/leetcode-submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## String Matching
 |  |
 | ------- |
