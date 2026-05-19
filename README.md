@@ -24,6 +24,7 @@
 | [1345-jump-game-iv](https://github.com/07ronak/leetcode-submissions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/07ronak/leetcode-submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/07ronak/leetcode-submissions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/07ronak/leetcode-submissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1861-rotating-the-box](https://github.com/07ronak/leetcode-submissions/tree/master/1861-rotating-the-box) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/07ronak/leetcode-submissions/tree/master/0316-remove-duplicate-letters) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/07ronak/leetcode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/07ronak/leetcode-submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Depth-First Search
@@ -139,6 +141,7 @@
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/07ronak/leetcode-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1861-rotating-the-box](https://github.com/07ronak/leetcode-submissions/tree/master/1861-rotating-the-box) |
 | [1895-largest-magic-square](https://github.com/07ronak/leetcode-submissions/tree/master/1895-largest-magic-square) |
 | [1914-cyclically-rotating-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1914-cyclically-rotating-a-grid) |
