@@ -38,6 +38,7 @@
 | [2540-minimum-common-value](https://github.com/07ronak/leetcode-submissions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/07ronak/leetcode-submissions/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/07ronak/leetcode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/07ronak/leetcode-submissions/tree/master/2784-check-if-array-is-good) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/07ronak/leetcode-submissions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3225-maximum-score-from-grid-operations](https://github.com/07ronak/leetcode-submissions/tree/master/3225-maximum-score-from-grid-operations) |
@@ -81,6 +82,7 @@
 | [2402-meeting-rooms-iii](https://github.com/07ronak/leetcode-submissions/tree/master/2402-meeting-rooms-iii) |
 | [2540-minimum-common-value](https://github.com/07ronak/leetcode-submissions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/07ronak/leetcode-submissions/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/07ronak/leetcode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/07ronak/leetcode-submissions/tree/master/2784-check-if-array-is-good) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/07ronak/leetcode-submissions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3713-longest-balanced-substring-i](https://github.com/07ronak/leetcode-submissions/tree/master/3713-longest-balanced-substring-i) |
@@ -278,6 +280,7 @@
 | [0401-binary-watch](https://github.com/07ronak/leetcode-submissions/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/07ronak/leetcode-submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/07ronak/leetcode-submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/07ronak/leetcode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## String Matching
 |  |
 | ------- |
