@@ -22,6 +22,7 @@
 | [0287-find-the-duplicate-number](https://github.com/07ronak/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/07ronak/leetcode-submissions/tree/master/0396-rotate-function) |
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
+| [1089-duplicate-zeros](https://github.com/07ronak/leetcode-submissions/tree/master/1089-duplicate-zeros) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/07ronak/leetcode-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1345-jump-game-iv](https://github.com/07ronak/leetcode-submissions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -180,6 +181,7 @@
 | [0189-rotate-array](https://github.com/07ronak/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/07ronak/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [1089-duplicate-zeros](https://github.com/07ronak/leetcode-submissions/tree/master/1089-duplicate-zeros) |
 | [1861-rotating-the-box](https://github.com/07ronak/leetcode-submissions/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/07ronak/leetcode-submissions/tree/master/2540-minimum-common-value) |
 ## String
