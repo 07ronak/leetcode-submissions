@@ -5,6 +5,7 @@
 | ------- |
 | [0015-3sum](https://github.com/07ronak/leetcode-submissions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/07ronak/leetcode-submissions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/07ronak/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/07ronak/leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/07ronak/leetcode-submissions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/07ronak/leetcode-submissions/tree/master/0048-rotate-image) |
@@ -253,6 +254,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/07ronak/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/07ronak/leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/07ronak/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
