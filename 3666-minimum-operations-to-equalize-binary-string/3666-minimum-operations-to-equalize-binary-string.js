@@ -27,7 +27,7 @@ var minOperations = function(s, k) {
     //1's need to be flipped even no of times
     //0's need to be flipped odd no of times
 
-    for(let t=1; t<=n; t++){
+    for(let t=2; t<=n; t++){
         const flipped = k*t
 
         if(zeros>flipped) continue
