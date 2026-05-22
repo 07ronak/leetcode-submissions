@@ -1,37 +1,45 @@
+/**
+ * @param {string} s
+ * @param {number} k
+ * @return {number}
+ */
 var minOperations = function(s, k) {
     const n = s.length
+
     let ones = 0
     let zeros = 0
 
-    // count 1s and 0s
-    for(let c of s){
-        if(c==="1") ones++
-        if(c==="0") zeros++
+    for(let i=0; i<n; i++){
+        if(s[i]==="0"){
+            zeros++
+        } else{
+            ones++
+        }
     }
 
-    let neededParity = zeros % 2
+    if(zeros===0) return 0
+    if(k===zeros) return 1
+    if(k===1) return zeros
 
-    /*---- Early Exits ----*/
-    if(!zeros) return 0 // already all 1s
-    if(k===1) return zeros // flip each zero individually
-    if(k===n && ones) return -1 // flipping whole string can't reach all 1s if both zeros and ones exists
-    if(k===zeros) return 1 // flip all zeros in one operation
-    /*---------------------*/
 
-    for (let t = 2; t <= n; t++) { // max operations needed is n (see explanation below)
-        const totalFlips = k * t
+    const neededParity = zeros%2
 
-        // Constraint 1: total flips must at least cover all zeros
-        if (totalFlips < zeros) continue
+    //1's need to be flipped even no of times
+    //0's need to be flipped odd no of times
 
-        // Constraint 2: parity must match (see explanation below)
-        if (totalFlips % 2 !== neededParity) continue
+    for(let t=1; t<=n; t++){
+        const flipped = k*t
 
-        // Constraint 3: enough non-flip opportunities must exist (see explanation below)
-        if (t & 1) {
-            if ((n - k) * t < ones) continue
-        } else {
-            if ((n - k) * t < zeros) continue
+        if(zeros>flipped) continue
+
+        if(neededParity!==(flipped%2)) continue
+
+        const nonFlipOpp = t *(n-k)
+
+        if(t&1){
+            if(nonFlipOpp<ones) continue
+        } else{
+            if(nonFlipOpp<zeros) continue
         }
 
         return t
