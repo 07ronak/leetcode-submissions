@@ -2,36 +2,29 @@
  * @param {number[]} arr
  * @return {void} Do not return anything, modify arr in-place instead.
  */
-var duplicateZeros = function(arr) {
+function duplicateZeros(arr) {
     const n = arr.length
-    let left = 0
-    let right = n - 1
+    let zeros = 0
 
-    while (right > left) {
-        if (arr[left] === 0) {
-            right--
+    for (let i = 0; i < n; i++) {
+        if (arr[i] === 0) zeros++
+    }
+
+    let j = n + zeros - 1
+
+    for(let i=n-1; i>=0; i--){
+        
+        if(i===j) {
+            j--
+            continue
         }
-        left++
-    }
+        if (j < n) arr[j] = arr[i]
 
-    let i = n - 1
-
-    // Special edge case
-    if (left === right && arr[left] === 0) {
-        arr[i] = 0
-        i--
-        right--
-    }
-
-    while (right >= 0) {
-        arr[i] = arr[right]
-        i--
-
-        if (arr[right] === 0 && i >= 0) {
-            arr[i] = 0
-            i--
+        if (arr[i] === 0) {
+            j--
+            if (j < n) arr[j] = 0
         }
 
-        right--
+        j--
     }
-};
+}
