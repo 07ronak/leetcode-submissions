@@ -170,6 +170,7 @@
 | [1340-jump-game-v](https://github.com/07ronak/leetcode-submissions/tree/master/1340-jump-game-v) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/07ronak/leetcode-submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/07ronak/leetcode-submissions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1871-jump-game-vii](https://github.com/07ronak/leetcode-submissions/tree/master/1871-jump-game-vii) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/07ronak/leetcode-submissions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3225-maximum-score-from-grid-operations](https://github.com/07ronak/leetcode-submissions/tree/master/3225-maximum-score-from-grid-operations) |
 ## Two Pointers
@@ -198,6 +199,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/07ronak/leetcode-submissions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/07ronak/leetcode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/07ronak/leetcode-submissions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1871-jump-game-vii](https://github.com/07ronak/leetcode-submissions/tree/master/1871-jump-game-vii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/07ronak/leetcode-submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/07ronak/leetcode-submissions/tree/master/2833-furthest-point-from-origin) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/07ronak/leetcode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -232,6 +234,7 @@
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/07ronak/leetcode-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/07ronak/leetcode-submissions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/07ronak/leetcode-submissions/tree/master/1871-jump-game-vii) |
 | [1895-largest-magic-square](https://github.com/07ronak/leetcode-submissions/tree/master/1895-largest-magic-square) |
 | [2615-sum-of-distances](https://github.com/07ronak/leetcode-submissions/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/07ronak/leetcode-submissions/tree/master/3225-maximum-score-from-grid-operations) |
@@ -305,6 +308,7 @@
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/07ronak/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1871-jump-game-vii](https://github.com/07ronak/leetcode-submissions/tree/master/1871-jump-game-vii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/07ronak/leetcode-submissions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Divide and Conquer
 |  |
