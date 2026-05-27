@@ -92,6 +92,7 @@
 | [2784-check-if-array-is-good](https://github.com/07ronak/leetcode-submissions/tree/master/2784-check-if-array-is-good) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/07ronak/leetcode-submissions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/07ronak/leetcode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/07ronak/leetcode-submissions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/07ronak/leetcode-submissions/tree/master/3719-longest-balanced-subarray-i) |
@@ -203,6 +204,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/07ronak/leetcode-submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/07ronak/leetcode-submissions/tree/master/2833-furthest-point-from-origin) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/07ronak/leetcode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/07ronak/leetcode-submissions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/07ronak/leetcode-submissions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3714-longest-balanced-substring-ii) |
