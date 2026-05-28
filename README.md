@@ -260,6 +260,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/07ronak/leetcode-submissions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/0328-odd-even-linked-list) |
 ## Stack
 |  |
 | ------- |
