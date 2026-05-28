@@ -259,6 +259,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/07ronak/leetcode-submissions/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/0328-odd-even-linked-list) |
 ## Stack
@@ -274,6 +275,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/07ronak/leetcode-submissions/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
