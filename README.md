@@ -23,6 +23,7 @@
 | [0396-rotate-function](https://github.com/07ronak/leetcode-submissions/tree/master/0396-rotate-function) |
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/07ronak/leetcode-submissions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0932-beautiful-array](https://github.com/07ronak/leetcode-submissions/tree/master/0932-beautiful-array) |
 | [1089-duplicate-zeros](https://github.com/07ronak/leetcode-submissions/tree/master/1089-duplicate-zeros) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/07ronak/leetcode-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1340-jump-game-v](https://github.com/07ronak/leetcode-submissions/tree/master/1340-jump-game-v) |
@@ -166,6 +167,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/07ronak/leetcode-submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/07ronak/leetcode-submissions/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
+| [0932-beautiful-array](https://github.com/07ronak/leetcode-submissions/tree/master/0932-beautiful-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/07ronak/leetcode-submissions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/07ronak/leetcode-submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/07ronak/leetcode-submissions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -371,6 +373,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/07ronak/leetcode-submissions/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0932-beautiful-array](https://github.com/07ronak/leetcode-submissions/tree/master/0932-beautiful-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/07ronak/leetcode-submissions/tree/master/3719-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
