@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/07ronak/leetcode-submissions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/07ronak/leetcode-submissions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/07ronak/leetcode-submissions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/07ronak/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/07ronak/leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/07ronak/leetcode-submissions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/07ronak/leetcode-submissions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/07ronak/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/07ronak/leetcode-submissions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/07ronak/leetcode-submissions/tree/master/0148-sort-list) |
@@ -214,6 +216,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/07ronak/leetcode-submissions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/07ronak/leetcode-submissions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/07ronak/leetcode-submissions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/07ronak/leetcode-submissions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/07ronak/leetcode-submissions/tree/master/0075-sort-colors) |
