@@ -104,6 +104,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0229-majority-element-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/07ronak/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/07ronak/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
 | [1345-jump-game-iv](https://github.com/07ronak/leetcode-submissions/tree/master/1345-jump-game-iv) |
@@ -239,6 +240,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/07ronak/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/07ronak/leetcode-submissions/tree/master/0316-remove-duplicate-letters) |
+| [0424-longest-repeating-character-replacement](https://github.com/07ronak/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/07ronak/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0482-license-key-formatting](https://github.com/07ronak/leetcode-submissions/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/07ronak/leetcode-submissions/tree/master/0520-detect-capital) |
@@ -377,6 +379,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/07ronak/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/07ronak/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/07ronak/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/07ronak/leetcode-submissions/tree/master/1871-jump-game-vii) |
