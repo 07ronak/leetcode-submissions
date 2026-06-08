@@ -163,6 +163,7 @@
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/07ronak/leetcode-submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/07ronak/leetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1914-cyclically-rotating-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2402-meeting-rooms-iii](https://github.com/07ronak/leetcode-submissions/tree/master/2402-meeting-rooms-iii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -250,6 +251,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/07ronak/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/07ronak/leetcode-submissions/tree/master/1392-longest-happy-prefix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/07ronak/leetcode-submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/07ronak/leetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/07ronak/leetcode-submissions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/07ronak/leetcode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/07ronak/leetcode-submissions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -331,6 +333,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/07ronak/leetcode-submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/07ronak/leetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Binary Search
 |  |
 | ------- |
