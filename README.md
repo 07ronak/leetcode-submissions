@@ -242,6 +242,7 @@
 | [0032-longest-valid-parentheses](https://github.com/07ronak/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0214-shortest-palindrome](https://github.com/07ronak/leetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/07ronak/leetcode-submissions/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/07ronak/leetcode-submissions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/07ronak/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/07ronak/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0482-license-key-formatting](https://github.com/07ronak/leetcode-submissions/tree/master/0482-license-key-formatting) |
@@ -326,6 +327,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/07ronak/leetcode-submissions/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/07ronak/leetcode-submissions/tree/master/0394-decode-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/07ronak/leetcode-submissions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Recursion
 |  |
@@ -333,6 +335,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/07ronak/leetcode-submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/07ronak/leetcode-submissions/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/07ronak/leetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Binary Search
 |  |
