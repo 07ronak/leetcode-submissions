@@ -40,6 +40,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/07ronak/leetcode-submissions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/07ronak/leetcode-submissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/07ronak/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
+| [1765-map-of-highest-peak](https://github.com/07ronak/leetcode-submissions/tree/master/1765-map-of-highest-peak) |
 | [1861-rotating-the-box](https://github.com/07ronak/leetcode-submissions/tree/master/1861-rotating-the-box) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/07ronak/leetcode-submissions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1895-largest-magic-square](https://github.com/07ronak/leetcode-submissions/tree/master/1895-largest-magic-square) |
@@ -195,6 +196,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/07ronak/leetcode-submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1765-map-of-highest-peak](https://github.com/07ronak/leetcode-submissions/tree/master/1765-map-of-highest-peak) |
 | [1861-rotating-the-box](https://github.com/07ronak/leetcode-submissions/tree/master/1861-rotating-the-box) |
 | [1895-largest-magic-square](https://github.com/07ronak/leetcode-submissions/tree/master/1895-largest-magic-square) |
 | [1914-cyclically-rotating-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1914-cyclically-rotating-a-grid) |
@@ -278,6 +280,7 @@
 | [0279-perfect-squares](https://github.com/07ronak/leetcode-submissions/tree/master/0279-perfect-squares) |
 | [1345-jump-game-iv](https://github.com/07ronak/leetcode-submissions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1765-map-of-highest-peak](https://github.com/07ronak/leetcode-submissions/tree/master/1765-map-of-highest-peak) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/07ronak/leetcode-submissions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/07ronak/leetcode-submissions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Graph Theory
