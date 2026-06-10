@@ -426,6 +426,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/07ronak/leetcode-submissions/tree/master/0437-path-sum-iii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/07ronak/leetcode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2236-root-equals-sum-of-children](https://github.com/07ronak/leetcode-submissions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
@@ -435,6 +436,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/07ronak/leetcode-submissions/tree/master/0437-path-sum-iii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/07ronak/leetcode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2236-root-equals-sum-of-children](https://github.com/07ronak/leetcode-submissions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
