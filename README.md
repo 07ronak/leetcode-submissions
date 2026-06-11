@@ -47,6 +47,7 @@
 | [1895-largest-magic-square](https://github.com/07ronak/leetcode-submissions/tree/master/1895-largest-magic-square) |
 | [1912-design-movie-rental-system](https://github.com/07ronak/leetcode-submissions/tree/master/1912-design-movie-rental-system) |
 | [1914-cyclically-rotating-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1914-cyclically-rotating-a-grid) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/07ronak/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/07ronak/leetcode-submissions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/07ronak/leetcode-submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/07ronak/leetcode-submissions/tree/master/2126-destroying-asteroids) |
@@ -188,6 +189,7 @@
 | [0788-rotated-digits](https://github.com/07ronak/leetcode-submissions/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
 | [0932-beautiful-array](https://github.com/07ronak/leetcode-submissions/tree/master/0932-beautiful-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/07ronak/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/07ronak/leetcode-submissions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/07ronak/leetcode-submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/07ronak/leetcode-submissions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -490,4 +492,8 @@
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/07ronak/leetcode-submissions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/07ronak/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
