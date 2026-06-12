@@ -68,6 +68,7 @@
 | [3225-maximum-score-from-grid-operations](https://github.com/07ronak/leetcode-submissions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/07ronak/leetcode-submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/07ronak/leetcode-submissions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/07ronak/leetcode-submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/07ronak/leetcode-submissions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -97,6 +98,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/07ronak/leetcode-submissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/07ronak/leetcode-submissions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/07ronak/leetcode-submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/07ronak/leetcode-submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/07ronak/leetcode-submissions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/07ronak/leetcode-submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/07ronak/leetcode-submissions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/07ronak/leetcode-submissions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -229,6 +232,7 @@
 | [1871-jump-game-vii](https://github.com/07ronak/leetcode-submissions/tree/master/1871-jump-game-vii) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/07ronak/leetcode-submissions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3225-maximum-score-from-grid-operations](https://github.com/07ronak/leetcode-submissions/tree/master/3225-maximum-score-from-grid-operations) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/07ronak/leetcode-submissions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Two Pointers
@@ -399,6 +403,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/07ronak/leetcode-submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/07ronak/leetcode-submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/07ronak/leetcode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -439,6 +444,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/07ronak/leetcode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/07ronak/leetcode-submissions/tree/master/2236-root-equals-sum-of-children) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/07ronak/leetcode-submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
