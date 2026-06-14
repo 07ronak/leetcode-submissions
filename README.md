@@ -186,6 +186,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/07ronak/leetcode-submissions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/07ronak/leetcode-submissions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/07ronak/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/07ronak/leetcode-submissions/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/07ronak/leetcode-submissions/tree/master/0396-rotate-function) |
@@ -364,6 +365,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/07ronak/leetcode-submissions/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/07ronak/leetcode-submissions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/07ronak/leetcode-submissions/tree/master/0394-decode-string) |
