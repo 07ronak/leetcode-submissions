@@ -3,19 +3,19 @@
  * @return {string}
  */
 var processStr = function(s) {
-    let stack =[]
+    let res = ""
 
     for(let c of s){
         if(c==="*"){
-            stack.pop()
+            res = res.slice(0,-1)
         } else if(c==="#"){
-            stack = stack.concat(stack)
+            res += res
         } else if(c==="%"){
-            stack.reverse()
+            res = res.split("").reverse("").join("")
         } else{
-            stack.push(c)
+            res += c
         }
     }
 
-    return stack.join("")
+    return res
 };
