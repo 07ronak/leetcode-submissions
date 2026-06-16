@@ -44,7 +44,7 @@ function merge(arr,s,mid,e){
         arr[k++] = left[i++]
     }
 
-    while(j<r){
+    /* while(j<r){
         arr[k++] = right[j++]
-    }
+    } */
 }
