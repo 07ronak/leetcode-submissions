@@ -26,6 +26,7 @@
 | [0396-rotate-function](https://github.com/07ronak/leetcode-submissions/tree/master/0396-rotate-function) |
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/07ronak/leetcode-submissions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/07ronak/leetcode-submissions/tree/master/0932-beautiful-array) |
 | [1089-duplicate-zeros](https://github.com/07ronak/leetcode-submissions/tree/master/1089-duplicate-zeros) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/07ronak/leetcode-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/07ronak/leetcode-submissions/tree/master/0743-network-delay-time) |
+| [0912-sort-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/0912-sort-an-array) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/07ronak/leetcode-submissions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1912-design-movie-rental-system](https://github.com/07ronak/leetcode-submissions/tree/master/1912-design-movie-rental-system) |
 | [2402-meeting-rooms-iii](https://github.com/07ronak/leetcode-submissions/tree/master/2402-meeting-rooms-iii) |
@@ -161,6 +163,7 @@
 | [0147-insertion-sort-list](https://github.com/07ronak/leetcode-submissions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/07ronak/leetcode-submissions/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0229-majority-element-ii) |
+| [0912-sort-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/0912-sort-an-array) |
 | [1340-jump-game-v](https://github.com/07ronak/leetcode-submissions/tree/master/1340-jump-game-v) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/07ronak/leetcode-submissions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/07ronak/leetcode-submissions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -438,12 +441,14 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/07ronak/leetcode-submissions/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/07ronak/leetcode-submissions/tree/master/0932-beautiful-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/07ronak/leetcode-submissions/tree/master/3719-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/07ronak/leetcode-submissions/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/0912-sort-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -514,4 +519,16 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/07ronak/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
