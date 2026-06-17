@@ -23,7 +23,6 @@ var processStr = function(s, k) {
 
     if(k>=len) return "."
     
-
     for (let i = n - 1; i >= 0; i--) {
         const c = s[i];
 
@@ -48,5 +47,4 @@ var processStr = function(s, k) {
             len--;
         }
     }
-    
 };
