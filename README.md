@@ -185,6 +185,7 @@
 | [2402-meeting-rooms-iii](https://github.com/07ronak/leetcode-submissions/tree/master/2402-meeting-rooms-iii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/07ronak/leetcode-submissions/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/07ronak/leetcode-submissions/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
@@ -291,6 +292,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/07ronak/leetcode-submissions/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/07ronak/leetcode-submissions/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/07ronak/leetcode-submissions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/07ronak/leetcode-submissions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3714-longest-balanced-substring-ii) |
