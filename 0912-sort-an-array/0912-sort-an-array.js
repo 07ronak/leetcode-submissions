@@ -3,18 +3,15 @@
  * @return {number[]}
  */
 var sortArray = function(nums) {
-
     const mergeSort = (arr,s,e) =>{
-        if(s>=e){
-            return arr
-        }
+        if(s>=e) return arr
 
         const mid = Math.floor((s+e)/2)
 
         mergeSort(arr,s,mid)
         mergeSort(arr,mid+1,e)
 
-        merge(arr,s,mid,e)
+        merge(arr,s,mid+1,e)
 
         return arr
     }
@@ -23,28 +20,21 @@ var sortArray = function(nums) {
 };
 
 function merge(arr,s,mid,e){
-    let left = arr.slice(s,mid+1)
-    let right = arr.slice(mid+1,e+1)
-    const l = mid - s + 1
-    const r = e - mid
+    let left = arr.slice(s,mid)
+    let right = arr.slice(mid,e+1)
 
-    let i=0
-    let j=0
-    let k = s
+    const r = e - mid +1
 
-    while(i < l && j < r){
-        if(left[i]<=right[j]){
-            arr[k++] = left[i++]
+    let i = 0
+    let j = 0
+
+    for(let k=s; k<=e; k++){
+        if(left[i]<=right[j] || j>=r){
+            arr[k] = left[i]
+            i++
         } else{
-            arr[k++] = right[j++]
+            arr[k] = right[j]
+            j++
         }
     }
-
-    while(i<l){
-        arr[k++] = left[i++]
-    }
-
-    /* while(j<r){
-        arr[k++] = right[j++]
-    } */
 }
