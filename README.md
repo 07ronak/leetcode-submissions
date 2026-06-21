@@ -45,6 +45,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/07ronak/leetcode-submissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/07ronak/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1765-map-of-highest-peak](https://github.com/07ronak/leetcode-submissions/tree/master/1765-map-of-highest-peak) |
+| [1833-maximum-ice-cream-bars](https://github.com/07ronak/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/07ronak/leetcode-submissions/tree/master/1840-maximum-building-height) |
 | [1861-rotating-the-box](https://github.com/07ronak/leetcode-submissions/tree/master/1861-rotating-the-box) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/07ronak/leetcode-submissions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -85,6 +86,7 @@
 | [0316-remove-duplicate-letters](https://github.com/07ronak/leetcode-submissions/tree/master/0316-remove-duplicate-letters) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/07ronak/leetcode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1833-maximum-ice-cream-bars](https://github.com/07ronak/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/07ronak/leetcode-submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/07ronak/leetcode-submissions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/07ronak/leetcode-submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -169,6 +171,7 @@
 | [0912-sort-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/0912-sort-an-array) |
 | [1340-jump-game-v](https://github.com/07ronak/leetcode-submissions/tree/master/1340-jump-game-v) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/07ronak/leetcode-submissions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1833-maximum-ice-cream-bars](https://github.com/07ronak/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/07ronak/leetcode-submissions/tree/master/1840-maximum-building-height) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/07ronak/leetcode-submissions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/07ronak/leetcode-submissions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -543,4 +546,5 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/0912-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/07ronak/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
