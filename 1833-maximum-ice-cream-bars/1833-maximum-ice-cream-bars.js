@@ -4,16 +4,25 @@
  * @return {number}
  */
 var maxIceCream = function(costs, coins) {
-    costs.sort((a,b)=>a-b)
+    let maxCost = Math.max(...costs)
+
+    let freq = new Array(maxCost+1).fill(0)
+
+    for(let cost of costs){
+        freq[cost]++
+    }
 
     let count = 0
 
-    for(let cost of costs){
-        
-        if(cost > coins) break
+    for(let p=1; p<=maxCost; p++){
+        if(freq[p]===0) continue
 
-        count++
-        coins -= cost 
+        let canBuy = Math.min(freq[p],Math.floor(coins/p))
+
+        count += canBuy
+        coins -= canBuy * p
+
+        if(p > coins) break
     }
 
     return count
