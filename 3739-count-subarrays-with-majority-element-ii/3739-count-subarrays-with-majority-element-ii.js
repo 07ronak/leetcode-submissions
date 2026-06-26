@@ -1,25 +1,27 @@
-const countMajoritySubarrays = (A, k) => {
-    let prefix = 0;
-    let less = 0;   // # previous prefix sums < current prefix
-    let res = 0;
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number}
+ */
+var countMajoritySubarrays = function(nums, target) {
+    let prefix = 0
+    let less = 0
+    let res = 0
 
-    const freq = new Map();
-    freq.set(0, 1); // initial prefix sum
+    let map = new Map([[0,1]])
 
-    for (const x of A) {
-        if (x === k) {
-            // prefix goes from p -> p+1
-            less += freq.get(prefix) || 0;
-            prefix++;
-        } else {
-            // prefix goes from p -> p-1
-            less -= freq.get(prefix - 1) || 0;
-            prefix--;
+    for(let num of nums){
+        if(num===target){
+            less += map.get(prefix) || 0
+            prefix++
+        } else{
+            less -= map.get(prefix-1) || 0
+            prefix--
         }
 
-        res += less;
-        freq.set(prefix, (freq.get(prefix) || 0) + 1);
+        res += less
+        map.set(prefix,(map.get(prefix)||0)+1)
     }
 
-    return res;
+    return res
 };
