@@ -68,6 +68,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/07ronak/leetcode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/07ronak/leetcode-submissions/tree/master/2784-check-if-array-is-good) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/07ronak/leetcode-submissions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/07ronak/leetcode-submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/07ronak/leetcode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/07ronak/leetcode-submissions/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/07ronak/leetcode-submissions/tree/master/3161-block-placement-queries) |
@@ -140,6 +141,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/07ronak/leetcode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/07ronak/leetcode-submissions/tree/master/2784-check-if-array-is-good) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/07ronak/leetcode-submissions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/07ronak/leetcode-submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/07ronak/leetcode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/07ronak/leetcode-submissions/tree/master/3713-longest-balanced-substring-i) |
@@ -349,6 +351,7 @@
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/07ronak/leetcode-submissions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/07ronak/leetcode-submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3713-longest-balanced-substring-i](https://github.com/07ronak/leetcode-submissions/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/07ronak/leetcode-submissions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
