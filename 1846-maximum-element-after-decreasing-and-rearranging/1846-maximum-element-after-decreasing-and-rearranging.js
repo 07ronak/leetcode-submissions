@@ -4,7 +4,6 @@
  */
 var maximumElementAfterDecrementingAndRearranging = function(arr) {
     let ans = 0
-    const n = arr.length
 
     arr.sort((a,b)=>a-b)
 
