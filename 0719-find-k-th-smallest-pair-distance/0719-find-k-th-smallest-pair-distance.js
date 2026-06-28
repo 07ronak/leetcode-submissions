@@ -7,7 +7,7 @@ var smallestDistancePair = function(nums, k) {
     const n = nums.length
     nums.sort((a,b)=>a-b)
 
-    let right = Math.max(...nums)
+    let right = nums[n - 1] - nums[0];
     let left = 0
 
 
