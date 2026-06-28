@@ -24,10 +24,10 @@ var findMedianSortedArrays = function(nums1, nums2) {
         const mid = Math.floor((left+right)/2)
         const j = half - mid -2
 
-        let Aleft = nums1[mid] ?? -Infinity
-        let Aright = nums1[mid+1] ?? Infinity
-        let Bleft = nums2[j] ?? -Infinity
-        let Bright = nums2[j+1] ?? Infinity
+        const Aleft = nums1[mid] ?? -Infinity
+        const Aright = nums1[mid+1] ?? Infinity
+        const Bleft = nums2[j] ?? -Infinity
+        const Bright = nums2[j+1] ?? Infinity
 
         if(Aleft<=Bright && Bleft<=Aright){
             if(total&1){
