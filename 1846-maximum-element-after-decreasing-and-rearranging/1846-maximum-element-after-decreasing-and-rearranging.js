@@ -3,13 +3,18 @@
  * @return {number}
  */
 var maximumElementAfterDecrementingAndRearranging = function(arr) {
-    let ans = 0
-
-    arr.sort((a,b)=>a-b)
+    const n= arr.length
+    let freq = new Array(n+1).fill(0)
 
     for(let num of arr){
-        ans = Math.min(++ans,num)
+        freq[Math.min(n,num)]++
     }
 
-    return ans
+    let val = 1
+
+    for(let i=2; i<=n; i++){
+        val = Math.min(i,val+freq[i])
+    }
+
+    return val
 };
