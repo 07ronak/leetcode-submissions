@@ -3,24 +3,24 @@
  * @return {number}
  */
 var numberOfSubstrings = function(s) {
+    let count = new Array(3).fill(0)
+    let ans = 0
     const n = s.length
 
-    let arr = [0,0,0]
-    let count = 0
-    let j = 0
+    let left = 0
+    
+    for(let right =0; right<n; right++){
+        //add the current element
+        count[s.charCodeAt(right)-97]++
 
-    for(let i=0; i<n; i++){
-        //add current val
-        arr[s.charCodeAt(i)-97]++
+        while(count[0]>=1 && count[1]>=1 && count[2]>=1){
+            ans += n - right
 
-        while(arr[0]>=1 && arr[1]>=1 && arr[2]>=1){
-            count += n-i
-            
-            //remove jth element
-            arr[s.charCodeAt(j)-97]--
-            j++
+            //shift left
+            count[s.charCodeAt(left)-97]--
+            left++
         }
     }
 
-    return count
+    return ans
 };
