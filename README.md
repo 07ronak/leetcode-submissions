@@ -35,6 +35,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/07ronak/leetcode-submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/07ronak/leetcode-submissions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/07ronak/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/07ronak/leetcode-submissions/tree/master/0932-beautiful-array) |
 | [1089-duplicate-zeros](https://github.com/07ronak/leetcode-submissions/tree/master/1089-duplicate-zeros) |
@@ -450,6 +451,7 @@
 | [0704-binary-search](https://github.com/07ronak/leetcode-submissions/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/07ronak/leetcode-submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/07ronak/leetcode-submissions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/07ronak/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/07ronak/leetcode-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2540-minimum-common-value](https://github.com/07ronak/leetcode-submissions/tree/master/2540-minimum-common-value) |
 | [3161-block-placement-queries](https://github.com/07ronak/leetcode-submissions/tree/master/3161-block-placement-queries) |
