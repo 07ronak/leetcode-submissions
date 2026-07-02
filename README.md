@@ -136,6 +136,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/07ronak/leetcode-submissions/tree/master/0041-first-missing-positive) |
+| [0138-copy-list-with-random-pointer](https://github.com/07ronak/leetcode-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/07ronak/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
@@ -413,6 +414,7 @@
 | [0061-rotate-list](https://github.com/07ronak/leetcode-submissions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/07ronak/leetcode-submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/07ronak/leetcode-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/07ronak/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/07ronak/leetcode-submissions/tree/master/0147-insertion-sort-list) |
