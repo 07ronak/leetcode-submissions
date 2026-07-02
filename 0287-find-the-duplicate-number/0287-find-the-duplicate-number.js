@@ -2,25 +2,25 @@
  * @param {number[]} nums
  * @return {number}
  */
-var findDuplicate = function(nums) {
-    let fast = 0
+var findDuplicate = function(arr) {
     let slow = 0
+    let fast = 0
 
     while(true){
-        slow = nums[slow]
-        fast = nums[nums[fast]]
-        if(slow===fast){
-            break
-        }
+        slow = arr[slow]
+        fast = arr[arr[fast]]
+
+        if(fast===slow) break
     }
 
     fast = 0
 
     while(true){
+        slow = arr[slow]
+        fast = arr[fast]
+
         if(slow===fast){
             return slow
         }
-        slow = nums[slow]
-        fast = nums[fast]
     }
 };
