@@ -2,11 +2,10 @@
  * @param {number} k
  */
 var MyCircularQueue = function(k) {
-    this.arr = new Array(k).fill(-1)
-    this.size = 0
-    this.k = k
-    this.front = 0
-    this.rear = -1
+    this.arr = new Array(k + 1);
+    this.n = k + 1; // actual array size
+    this.front = 0;
+    this.rear = 0;
 };
 
 /** 
@@ -14,66 +13,53 @@ var MyCircularQueue = function(k) {
  * @return {boolean}
  */
 MyCircularQueue.prototype.enQueue = function(value) {
-    if(this.isFull()) return false
+    if (this.isFull()) return false;
 
-    this.rear = (this.rear + 1) % this.k
-    this.arr[this.rear] = value
-    
-    this.size++
-    return true
+    this.arr[this.rear] = value;
+    this.rear = (this.rear + 1) % this.n;
+
+    return true;
 };
 
 /**
  * @return {boolean}
  */
 MyCircularQueue.prototype.deQueue = function() {
-    if(this.isEmpty()) return false
+    if (this.isEmpty()) return false;
 
-    this.front = (this.front + 1) % this.k
+    this.front = (this.front + 1) % this.n;
 
-    this.size--
-    return true
+    return true;
 };
 
 /**
  * @return {number}
  */
 MyCircularQueue.prototype.Front = function() {
-    if(this.isEmpty()) return -1
+    if (this.isEmpty()) return -1;
 
-    return this.arr[this.front]
+    return this.arr[this.front];
 };
 
 /**
  * @return {number}
  */
 MyCircularQueue.prototype.Rear = function() {
-    if(this.isEmpty()) return -1
+    if (this.isEmpty()) return -1;
 
-    return this.arr[this.rear]
+    return this.arr[(this.rear - 1 + this.n) % this.n];
 };
 
 /**
  * @return {boolean}
  */
 MyCircularQueue.prototype.isEmpty = function() {
-    return this.size === 0
+    return this.front === this.rear;
 };
 
 /**
  * @return {boolean}
  */
 MyCircularQueue.prototype.isFull = function() {
-    return this.size === this.k
+    return (this.rear + 1) % this.n === this.front;
 };
-
-/** 
- * Your MyCircularQueue object will be instantiated and called as such:
- * var obj = new MyCircularQueue(k)
- * var param_1 = obj.enQueue(value)
- * var param_2 = obj.deQueue()
- * var param_3 = obj.Front()
- * var param_4 = obj.Rear()
- * var param_5 = obj.isEmpty()
- * var param_6 = obj.isFull()
- */
