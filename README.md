@@ -35,6 +35,7 @@
 | [0704-binary-search](https://github.com/07ronak/leetcode-submissions/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/07ronak/leetcode-submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
+| [0849-maximize-distance-to-closest-person](https://github.com/07ronak/leetcode-submissions/tree/master/0849-maximize-distance-to-closest-person) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/07ronak/leetcode-submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/07ronak/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/0912-sort-an-array) |
