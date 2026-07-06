@@ -10,14 +10,13 @@
  * @param {TreeNode} root
  * @return {TreeNode}
  */
-var invertTree = function(root) {
+var invertTree = function (root) {
     if (!root) return null;
 
     [root.left, root.right] = [root.right, root.left];
 
-    // Recursively invert the left and right subtrees
     invertTree(root.left);
     invertTree(root.right);
-    
+
     return root
 };
