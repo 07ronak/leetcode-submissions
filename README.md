@@ -121,6 +121,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/07ronak/leetcode-submissions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -388,6 +389,7 @@
 | [0101-symmetric-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/07ronak/leetcode-submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/07ronak/leetcode-submissions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/07ronak/leetcode-submissions/tree/master/0279-perfect-squares) |
 | [0743-network-delay-time](https://github.com/07ronak/leetcode-submissions/tree/master/0743-network-delay-time) |
@@ -588,6 +590,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/07ronak/leetcode-submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/07ronak/leetcode-submissions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -606,6 +609,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/07ronak/leetcode-submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/07ronak/leetcode-submissions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
