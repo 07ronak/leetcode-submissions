@@ -11,31 +11,30 @@
  * @param {number} key
  * @return {TreeNode}
  */
-var deleteNode = function (root, key) {
-    if (!root) return null
+var deleteNode = function(root, key) {
+    if(!root) return null;
 
-    if (root.val > key) {
-        root.left = deleteNode(root.left, key)
-    } else if (root.val < key) {
-        root.right = deleteNode(root.right, key)
-    } else {
-        //found
+    if(root.val > key){
+        root.left = deleteNode(root.left,key)
+    } else if(root.val < key){
+        root.right = deleteNode(root.right,key)
+    } else{
+        //found the element
+        if(!root.left) return root.right
+        if(!root.right) return root.left
 
-        if (!root.left) return root.right
-        if (!root.right) return root.left
-
-        const min = findMin(root.right)
-        root.val = min
-        root.right = deleteNode(root.right, min)
-
+        //has two children
+        const val = findMin(root.right)
+        root.val = val
+        root.right = deleteNode(root.right,val)
     }
 
     return root
-}
+};
 
-function findMin(node) {
-    while (node.left) {
-        node = node.left;
+function findMin(node){
+    while(node.left){
+        node = node.left
     }
-    return node.val;
+    return node.val
 }
