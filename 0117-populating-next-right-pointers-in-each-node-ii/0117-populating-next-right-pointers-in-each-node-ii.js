@@ -1,50 +1,26 @@
-/**
- * // Definition for a _Node.
- * function _Node(val, left, right, next) {
- *    this.val = val === undefined ? null : val;
- *    this.left = left === undefined ? null : left;
- *    this.right = right === undefined ? null : right;
- *    this.next = next === undefined ? null : next;
- * };
- */
+var connect = function(root) {
+    if (!root) return null;
 
-/**
- * @param {_Node} root
- * @return {_Node}
- */
-var connect = function (root) {
-    if (!root) return null
+    function getNextChild(node) {
+        while (node) {
+            if (node.left) return node.left;
+            if (node.right) return node.right;
+            node = node.next;
+        }
+        return null;
+    }
 
     if (root.left) {
-        if (root.right) {
-            root.left.next = root.right
-        } else {
-            let curr = root.next
-            while (curr) {
-                if (curr.left || curr.right) {
-                    root.left.next = (curr.left ?? curr.right)
-                    break
-                } else {
-                    curr = curr.next
-                }
-            }
-        }
+        root.left.next = root.right || getNextChild(root.next);
     }
 
     if (root.right) {
-        let curr = root.next
-        while (curr) {
-            if (curr.left || curr.right) {
-                root.right.next = (curr.left ?? curr.right)
-                break
-            } else {
-                curr = curr.next
-            }
-        }
+        root.right.next = getNextChild(root.next);
     }
 
-    connect(root.right)
-    connect(root.left)
+    // Right first, then left
+    connect(root.right);
+    connect(root.left);
 
-    return root
+    return root;
 };
