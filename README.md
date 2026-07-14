@@ -133,6 +133,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/07ronak/leetcode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/07ronak/leetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0743-network-delay-time](https://github.com/07ronak/leetcode-submissions/tree/master/0743-network-delay-time) |
@@ -636,6 +637,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/07ronak/leetcode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/07ronak/leetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/07ronak/leetcode-submissions/tree/master/0450-delete-node-in-a-bst) |
@@ -659,6 +661,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/07ronak/leetcode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/07ronak/leetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/07ronak/leetcode-submissions/tree/master/0450-delete-node-in-a-bst) |
@@ -670,6 +673,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/07ronak/leetcode-submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
