@@ -16,19 +16,15 @@ var lowestCommonAncestor = function (root, p, q) {
     const max = Math.max(p.val, q.val)
     const min = Math.min(p.val, q.val)
 
-    const dfs = (node) => {
-        if (!node || node === p || node === q) {
-            return node
-        }
+    let curr = root
 
-        if (max < node.val) {
-            return dfs(node.left)
-        } else if (min > node.val) {
-            return dfs(node.right)
+    while(true){
+        if(curr.val > max){
+            curr = curr.left
+        } else if(curr.val < min){
+            curr = curr.right
+        } else{
+            return curr
         }
-
-        return node
     }
-
-    return dfs(root)
 };
