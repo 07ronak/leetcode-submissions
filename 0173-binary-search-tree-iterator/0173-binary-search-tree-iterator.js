@@ -9,30 +9,33 @@
 /**
  * @param {TreeNode} root
  */
-var BSTIterator = function (root) {
+var BSTIterator = function(root) {
     this.stack = []
-    const dfs = (node) => {
-        if (!node) return
-
-        dfs(node.right)
-        this.stack.push(node.val)
-        dfs(node.left)
+    while(root){
+        this.stack.push(root)
+        root = root.left
     }
-    dfs(root)
 };
 
 /**
  * @return {number}
  */
-BSTIterator.prototype.next = function () {
-    return this.stack.pop()
+BSTIterator.prototype.next = function() {
+    const node = this.stack.pop()
+    let curr = node.right
+    while(curr){
+        this.stack.push(curr)
+        curr = curr.left
+    }
+
+    return node.val
 };
 
 /**
  * @return {boolean}
  */
-BSTIterator.prototype.hasNext = function () {
-    return this.stack.length !== 0
+BSTIterator.prototype.hasNext = function() {
+    return this.stack.length > 0
 };
 
 /** 
