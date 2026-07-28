@@ -4,31 +4,28 @@
  */
 var smallestPalindrome = function (s) {
     const n = s.length
-    let odd = false
-
-    if (n & 1) {
-        odd = true
-    }
-
+    const half = Math.floor(n/2)
     const count = new Array(26).fill(0)
 
-    for (const c of s) {
-        count[(c.charCodeAt(0)) - 97]++
+    for (let i=0; i<half; i++) {
+        count[(s.charCodeAt(i)) - 97]++
     }
 
-    let str = ""
+    let left = ""
+    let right = ""
 
     for (let i = 0; i < 26; i++) {
-        str += (String.fromCharCode(i + 97)).repeat(Math.floor(count[i]/2))
+        if (count[i]) {
+            const curr = (String.fromCharCode(i + 97)).repeat(count[i])
+            left += curr
+            right = curr + right
+        }
+
     }
 
-    const half = str
-
-    if(odd){
-        str += s[Math.floor(n/2)]
+    if (n & 1) {
+        left += s[half]
     }
 
-    str += half.split("").reverse("").join("")
-
-    return str
+    return left + right
 };
