@@ -10,29 +10,62 @@
  * @param {TreeNode} root
  * @return {number[][]}
  */
-var levelOrder = function(root) {
-    if(!root) return []
+var levelOrder = function (root) {
+    if (!root) return []
 
-    let k = 0
     const ans = []
+    const queue = new Queue1()
+    queue.enqueue(root)
 
-    const queue = [root]
+    while (queue.size) {
+        const len = queue.size
+        const arr = []
 
-    while(queue.length > k){
-        const level =[]
-        const levelSize = queue.length - k
+        for (let i = 0; i < len; i++) {
+            const node = queue.dequeue()
+            arr.push(node.val)
 
-        for(let i=0; i<levelSize; i++){
-            const node = queue[k++]
-
-            level.push(node.val)
-
-            if(node.left) queue.push(node.left)
-            if(node.right) queue.push(node.right)
+            if (node.left) queue.enqueue(node.left)
+            if (node.right) queue.enqueue(node.right)
         }
 
-        ans.push(level)
+        ans.push(arr)
     }
 
     return ans
 };
+
+class Node1 {
+    constructor(val, prev = null, next = null) {
+        this.val = val
+        this.prev = prev
+        this.next = next
+    }
+}
+
+class Queue1 {
+    constructor() {
+        this.right = new Node1(0)
+        this.left = new Node1(0, null, this.right)
+        this.right.prev = this.left
+        this.size = 0
+    }
+    enqueue(val) {
+        //add to the right end
+        const node = new Node1(val, this.right.prev, this.right)
+        this.right.prev.next = node
+        this.right.prev = node
+        this.size++
+    }
+    dequeue() {
+        //pop from left
+        if (this.size) {
+            const node = this.left.next
+            this.left.next = node.next
+            node.next.prev = this.left
+            this.size--
+
+            return node.val
+        }
+    }
+}
