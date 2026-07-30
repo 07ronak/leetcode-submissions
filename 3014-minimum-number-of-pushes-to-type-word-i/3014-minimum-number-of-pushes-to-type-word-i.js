@@ -3,27 +3,9 @@
  * @return {number}
  */
 var minimumPushes = function (word) {
-    let n = word.length
-    if (n < 9) return n
-
-    let ans = 0
-
-    if (n > 24) {
-        ans += 4 * (n - 24)
-        n = 24
-    }
-
-    if (n > 16) {
-        ans += 3 * (n - 16)
-        n = 16
-    }
-
-    if (n > 8) {
-        ans += 2 * (n - 8)
-        n = 8
-    }
-
-    ans += 8
-
-    return ans
+    const n = word.length
+    if (n <= 8) return n
+    if (n <= 16) return 8 + (n - 8) * 2
+    if (n <= 24) return 8 + 16 + (n - 16) * 3
+    return 8 + 16 + 24 + (n - 24) * 4
 };
