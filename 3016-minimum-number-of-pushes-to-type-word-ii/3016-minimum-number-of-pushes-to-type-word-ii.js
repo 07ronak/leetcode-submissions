@@ -14,7 +14,7 @@ var minimumPushes = function(word) {
     let ans = 0;
 
     for (let i = 0; i < 26; i++) {
-        if (freq[i] === 0) break;
+        if (!freq[i]) break;
 
         const pushes = Math.floor(i / 8) + 1;
 
