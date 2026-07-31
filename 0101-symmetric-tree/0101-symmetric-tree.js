@@ -10,19 +10,19 @@
  * @param {TreeNode} root
  * @return {boolean}
  */
-var isSymmetric = function(root) {
+var isSymmetric = function (root) {
+    let queue = [[root.left, root.right]]
     let k = 0
-    let queue = [[root.left,root.right]]
 
-    while(queue.length > k){
-        const [a,b] = queue[k++]
+    while (queue.length > k) {
+        const [a, b] = queue[k++]
 
-        if(!a && !b) continue
-        if(!a || !b) return false
-        if(a.val !== b.val) return false
+        if (!a && !b) continue
+        if (!a || !b) return false
+        if (a.val !== b.val) return false
 
-        queue.push([a.left,b.right])
-        queue.push([a.right,b.left])
+        queue.push([a.left, b.right])
+        queue.push([a.right, b.left])
     }
 
     return true
