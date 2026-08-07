@@ -11,16 +11,17 @@
  * @return {TreeNode}
  */
 var sortedArrayToBST = function (nums) {
-    const helper = (l, r) => {
+    const dfs = (l, r) => {
         if (l > r) return null
 
         const mid = Math.floor((l + r) / 2)
-        const root = new TreeNode(nums[mid])
-        root.left = helper(l, mid - 1)
-        root.right = helper(mid + 1, r)
+        const node = new TreeNode(nums[mid])
 
-        return root
+        node.left = dfs(l, mid - 1)
+        node.right = dfs(mid + 1, r)
+
+        return node
     }
 
-    return helper(0, nums.length - 1)
+    return dfs(0, nums.length - 1)
 };
