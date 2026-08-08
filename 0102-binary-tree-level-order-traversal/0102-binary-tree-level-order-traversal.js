@@ -12,24 +12,25 @@
  */
 var levelOrder = function (root) {
     if (!root) return []
-
     const ans = []
-    const queue = new Queue1()
-    queue.enqueue(root)
+
+    const queue = new LLQ()
+    queue.push(root)
 
     while (queue.size) {
-        const len = queue.size
-        const arr = []
+        const level = []
+        const size = queue.size
 
-        for (let i = 0; i < len; i++) {
-            const node = queue.dequeue()
-            arr.push(node.val)
+        for (let i = 0; i < size; i++) {
+            const node = queue.pop()
 
-            if (node.left) queue.enqueue(node.left)
-            if (node.right) queue.enqueue(node.right)
+            if (node.left) queue.push(node.left)
+            if (node.right) queue.push(node.right)
+
+            level.push(node.val)
         }
 
-        ans.push(arr)
+        ans.push(level)
     }
 
     return ans
@@ -43,26 +44,24 @@ class Node1 {
     }
 }
 
-class Queue1 {
+class LLQ {
     constructor() {
-        this.right = new Node1(0)
-        this.left = new Node1(0, null, this.right)
-        this.right.prev = this.left
+        this.left = new Node1(0)
+        this.right = new Node1(0, this.left, null)
+        this.left.next = this.right
         this.size = 0
     }
-    enqueue(val) {
-        //add to the right end
+    push(val) {
         const node = new Node1(val, this.right.prev, this.right)
         this.right.prev.next = node
         this.right.prev = node
         this.size++
     }
-    dequeue() {
-        //pop from left
+    pop() {
         if (this.size) {
             const node = this.left.next
-            this.left.next = node.next
             node.next.prev = this.left
+            this.left.next = node.next
             this.size--
 
             return node.val
