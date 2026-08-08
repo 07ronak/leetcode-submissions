@@ -11,29 +11,26 @@
  * @param {number[]} inorder
  * @return {TreeNode}
  */
-var buildTree = function(preorder, inorder) {
-    const n = inorder.length
+var buildTree = function (preorder, inorder) {
     const map = new Map()
-    
-    for(let i=0; i<n; i++){
-        map.set(inorder[i],i)
+    const n = inorder.length
+
+    for (let i = 0; i < n; i++) {
+        map.set(inorder[i], i)
     }
-    
+
     let idx = 0
-    
-    const dfs = (l,r) =>{
-        if(l>r) return null
-        
+    const dfs = (l, r) => {
+        if (l > r) return null
+
         const val = preorder[idx++]
         const root = new TreeNode(val)
-        
         const mid = map.get(val)
-        
-        root.left = dfs(l,mid-1)
-        root.right = dfs(mid+1,r)
-        
+
+        root.left = dfs(l, mid - 1)
+        root.right = dfs(mid + 1, r)
+
         return root
     }
-    
-    return dfs(0,n-1)
+    return dfs(0, n - 1)
 };
