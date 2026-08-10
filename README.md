@@ -158,6 +158,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/07ronak/leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/07ronak/leetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [0743-network-delay-time](https://github.com/07ronak/leetcode-submissions/tree/master/0743-network-delay-time) |
@@ -233,6 +234,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/07ronak/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/07ronak/leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/07ronak/leetcode-submissions/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/07ronak/leetcode-submissions/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/07ronak/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -436,6 +438,7 @@
 | [0014-longest-common-prefix](https://github.com/07ronak/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/07ronak/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0214-shortest-palindrome](https://github.com/07ronak/leetcode-submissions/tree/master/0214-shortest-palindrome) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/07ronak/leetcode-submissions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/07ronak/leetcode-submissions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/07ronak/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
@@ -495,6 +498,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/07ronak/leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/07ronak/leetcode-submissions/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0743-network-delay-time](https://github.com/07ronak/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [1345-jump-game-iv](https://github.com/07ronak/leetcode-submissions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -741,6 +745,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/07ronak/leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0427-construct-quad-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0427-construct-quad-tree) |
 | [0437-path-sum-iii](https://github.com/07ronak/leetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/07ronak/leetcode-submissions/tree/master/0450-delete-node-in-a-bst) |
@@ -777,6 +782,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/07ronak/leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/07ronak/leetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/07ronak/leetcode-submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
