@@ -160,6 +160,7 @@
 | [0437-path-sum-iii](https://github.com/07ronak/leetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [0743-network-delay-time](https://github.com/07ronak/leetcode-submissions/tree/master/0743-network-delay-time) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/07ronak/leetcode-submissions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/07ronak/leetcode-submissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -744,6 +745,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/07ronak/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/07ronak/leetcode-submissions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/07ronak/leetcode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/07ronak/leetcode-submissions/tree/master/2236-root-equals-sum-of-children) |
@@ -777,6 +779,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/07ronak/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/07ronak/leetcode-submissions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/07ronak/leetcode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/07ronak/leetcode-submissions/tree/master/2236-root-equals-sum-of-children) |
