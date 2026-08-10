@@ -10,12 +10,17 @@
  * @param {number} n
  * @return {boolean}
  */
-var winnerSquareGame = function(n) {
-    const win = new Uint8Array(n + 1);
+var winnerSquareGame = function (n) {
+    const win = new Uint8Array(n + 1).fill(0);
+
     for (let i = 1; i <= n; i++) {
         for (let s = 1; s * s <= i; s++) {
-            if (!win[i - s * s]) { win[i] = 1; break; }
+            if (win[i - s * s] === 0) {
+                win[i] = 1; 
+                break;
+            }
         }
     }
+
     return win[n] === 1;
 };
