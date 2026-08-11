@@ -1,20 +1,28 @@
-var combine = function(n, k) {
-    const result = [];
+/**
+ * @param {number} n
+ * @param {number} k
+ * @return {number[][]}
+ */
+var combine = function (n, k) {
+    const res = []
 
-    function backtrack(start, current) {
-        // Base case: combination complete
-        if (current.length === k) {
-            result.push([...current]);
-            return;
+    function bt(len, start, arr) {
+        if (len === k) {
+            res.push([...arr])
+            return
+        }
+
+        if (len > k) {
+            return
         }
 
         for (let i = start; i <= n; i++) {
-            current.push(i);           // choose
-            backtrack(i + 1, current); // explore
-            current.pop();             // unchoose
+            arr.push(i)
+            bt(len + 1, i + 1, arr)
+            arr.pop()
         }
     }
 
-    backtrack(1, []);
-    return result;
+    bt(0, 1, [])
+    return res
 };
