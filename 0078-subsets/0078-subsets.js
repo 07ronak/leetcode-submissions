@@ -1,17 +1,25 @@
+/**
+ * @param {number[]} nums
+ * @return {number[][]}
+ */
 var subsets = function (nums) {
-    const ans = [];
+    let ans = []
+    const n = nums.length
 
     function bt(index, arr) {
-        if (index === nums.length) {
-            ans.push(arr);
-            return;
+        if (index === n) {
+            ans.push(arr)
+            return
         }
 
-        bt(index + 1, [...arr, nums[index]]); // include
-        bt(index + 1, arr);                   // exclude
+        const inc = [...arr]
+        inc.push(nums[index])
+
+        bt(index + 1, inc) //include
+
+        bt(index + 1, arr) //exclude
     }
 
-    bt(0, []);
-
-    return ans;
+    bt(0, [])
+    return ans
 };
