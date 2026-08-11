@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/07ronak/leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/07ronak/leetcode-submissions/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/07ronak/leetcode-submissions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/07ronak/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/07ronak/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/07ronak/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
@@ -829,6 +830,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/07ronak/leetcode-submissions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/07ronak/leetcode-submissions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/07ronak/leetcode-submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0090-subsets-ii) |
