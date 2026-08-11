@@ -2,24 +2,20 @@
  * @param {number[]} nums
  * @return {number[][]}
  */
-var subsets = function (nums) {
-    let ans = []
-    const n = nums.length
+var subsets = function(nums) {
+    let result = [];
 
-    function bt(index, arr) {
-        if (index === n) {
-            ans.push(arr)
-            return
+    function backtrack(start, currSubset){
+        result.push([...currSubset]);
+
+        for(let i = start; i<nums.length; i++){
+            currSubset.push(nums[i]);
+            backtrack(i+1, currSubset)
+            currSubset.pop()
         }
-
-        const inc = [...arr]
-        inc.push(nums[index])
-
-        bt(index + 1, inc) //include
-
-        bt(index + 1, arr) //exclude
     }
 
-    bt(0, [])
-    return ans
+
+    backtrack(0,[]);
+    return result;
 };
