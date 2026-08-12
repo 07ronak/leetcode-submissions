@@ -99,6 +99,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/07ronak/leetcode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/07ronak/leetcode-submissions/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/07ronak/leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/07ronak/leetcode-submissions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/07ronak/leetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/07ronak/leetcode-submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -221,6 +222,7 @@
 | [2615-sum-of-distances](https://github.com/07ronak/leetcode-submissions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/07ronak/leetcode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/07ronak/leetcode-submissions/tree/master/2784-check-if-array-is-good) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/07ronak/leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/07ronak/leetcode-submissions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/07ronak/leetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -710,6 +712,7 @@
 | [0658-find-k-closest-elements](https://github.com/07ronak/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/07ronak/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/07ronak/leetcode-submissions/tree/master/1871-jump-game-vii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/07ronak/leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3634-minimum-removals-to-balance-array](https://github.com/07ronak/leetcode-submissions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Divide and Conquer
 |  |
