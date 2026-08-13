@@ -21,6 +21,7 @@
 | [0074-search-a-2d-matrix](https://github.com/07ronak/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/07ronak/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/07ronak/leetcode-submissions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/07ronak/leetcode-submissions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/07ronak/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0090-subsets-ii) |
@@ -153,6 +154,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/07ronak/leetcode-submissions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0101-symmetric-tree) |
@@ -374,6 +376,7 @@
 | [0048-rotate-image](https://github.com/07ronak/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/07ronak/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/07ronak/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/07ronak/leetcode-submissions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0427-construct-quad-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0427-construct-quad-tree) |
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
@@ -455,6 +458,7 @@
 | [0014-longest-common-prefix](https://github.com/07ronak/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/07ronak/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/07ronak/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
+| [0079-word-search](https://github.com/07ronak/leetcode-submissions/tree/master/0079-word-search) |
 | [0214-shortest-palindrome](https://github.com/07ronak/leetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/07ronak/leetcode-submissions/tree/master/0316-remove-duplicate-letters) |
@@ -848,6 +852,7 @@
 | [0047-permutations-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/07ronak/leetcode-submissions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/07ronak/leetcode-submissions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/07ronak/leetcode-submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/07ronak/leetcode-submissions/tree/master/0401-binary-watch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/07ronak/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
