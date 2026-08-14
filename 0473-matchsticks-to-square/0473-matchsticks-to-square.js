@@ -14,16 +14,15 @@ var makesquare = function (matchsticks) {
 
     function bt(idx) {
         if (idx === n) {
-            return sides[0] === side &&
-                sides[1] === side &&
-                sides[2] === side &&
-                sides[3] === side;
+            return true
         }
 
         const val = matchsticks[idx];
 
         for (let i = 0; i < 4; i++) {
             if (sides[i] + val > side) continue;
+
+            if (i > 0 && sides[i] === sides[i - 1]) continue;
 
             sides[i] += val;
 
@@ -32,6 +31,8 @@ var makesquare = function (matchsticks) {
             sides[i] -= val;
 
             // Symmetry pruning
+            // this means that even putting this stick on empty side didn't work
+            // therefore, it cannot work
             if (sides[i] === 0) break;
         }
 
