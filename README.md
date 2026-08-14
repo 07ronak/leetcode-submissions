@@ -44,6 +44,7 @@
 | [0622-design-circular-queue](https://github.com/07ronak/leetcode-submissions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/07ronak/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/07ronak/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/07ronak/leetcode-submissions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/07ronak/leetcode-submissions/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/07ronak/leetcode-submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
@@ -407,6 +408,7 @@
 | [0396-rotate-function](https://github.com/07ronak/leetcode-submissions/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/07ronak/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/07ronak/leetcode-submissions/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/07ronak/leetcode-submissions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0788-rotated-digits](https://github.com/07ronak/leetcode-submissions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/07ronak/leetcode-submissions/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/07ronak/leetcode-submissions/tree/master/0877-stone-game) |
@@ -706,6 +708,7 @@
 | [0287-find-the-duplicate-number](https://github.com/07ronak/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/07ronak/leetcode-submissions/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/07ronak/leetcode-submissions/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/07ronak/leetcode-submissions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/07ronak/leetcode-submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/07ronak/leetcode-submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/07ronak/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -865,6 +868,7 @@
 | [0131-palindrome-partitioning](https://github.com/07ronak/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/07ronak/leetcode-submissions/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/07ronak/leetcode-submissions/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/07ronak/leetcode-submissions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/07ronak/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Indexed Tree
@@ -993,4 +997,9 @@
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/07ronak/leetcode-submissions/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/07ronak/leetcode-submissions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/07ronak/leetcode-submissions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
