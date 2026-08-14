@@ -400,6 +400,7 @@
 | [0032-longest-valid-parentheses](https://github.com/07ronak/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/07ronak/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/07ronak/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/07ronak/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0279-perfect-squares](https://github.com/07ronak/leetcode-submissions/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/07ronak/leetcode-submissions/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/07ronak/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
@@ -459,6 +460,7 @@
 | [0022-generate-parentheses](https://github.com/07ronak/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/07ronak/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/07ronak/leetcode-submissions/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/07ronak/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0214-shortest-palindrome](https://github.com/07ronak/leetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/07ronak/leetcode-submissions/tree/master/0316-remove-duplicate-letters) |
@@ -854,6 +856,7 @@
 | [0078-subsets](https://github.com/07ronak/leetcode-submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/07ronak/leetcode-submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/07ronak/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/07ronak/leetcode-submissions/tree/master/0401-binary-watch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/07ronak/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
