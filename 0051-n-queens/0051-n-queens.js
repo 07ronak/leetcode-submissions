@@ -17,9 +17,7 @@ var solveNQueens = function (n) {
 
             if (!skipMirror) {
                 const mirror = solution.slice().reverse()
-                if (JSON.stringify(solution) !== JSON.stringify(mirror)) {
-                    res.push(mirror)
-                }
+                res.push(mirror)
             }
 
             return
