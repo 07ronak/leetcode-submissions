@@ -5,45 +5,36 @@
  */
 var canPartitionKSubsets = function (nums, k) {
     if (k === 1) return nums
-    nums.sort((a, b) => b - a)
     const n = nums.length
     const total = nums.reduce((a, b) => a + b, 0)
 
     if (total % k !== 0) return false
+    const side = total / k
 
-    const req = total / k
+    nums.sort((a, b) => b - a)
+    if (nums[0] > side) return false
 
-    if (nums[0] > req) return false
+    const bucket = new Array(k).fill(0)
 
-    const dis = new Array(k).fill(0)
-    let ans = false
-
-    bt(0)
-
-    return ans
+    return bt(0)
 
     function bt(idx) {
-        if (idx === n) {
-            for (let i = 0; i < k; i++) {
-                if (dis[i] !== req) return
-            }
-            ans = true
-            return
-        }
+        if (idx === n) return true
 
         const val = nums[idx]
 
         for (let i = 0; i < k; i++) {
-            if (dis[i] + val > req) continue
+            if (bucket[i] + val > side) continue
 
-            dis[i] += val
+            bucket[i] += val
 
-            bt(idx + 1)
-            if (ans) return
+            if (bt(idx + 1)) return true
 
-            dis[i] -= val
+            bucket[i] -= val
 
-            if (dis[i] === 0) break
+            if (bucket[i] === 0) return false
         }
+
+        return false
     }
 };
