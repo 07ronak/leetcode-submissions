@@ -50,7 +50,7 @@ var solveNQueens = function (n) {
 
 function isSafe(board, r, c, n) {
     // Check row
-    for (let i = 0; i < n; i++) {
+    for (let i = 0; i < c; i++) {
         if (board[r][i] === "Q") return false
     }
 
