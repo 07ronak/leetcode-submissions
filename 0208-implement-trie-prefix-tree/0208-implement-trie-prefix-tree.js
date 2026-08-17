@@ -1,56 +1,65 @@
-// Define a Node class for the Trie
 class TrieNode {
-  constructor() {
-    this.children = {}; // Stores child nodes
-    this.isEndOfWord = false; // Marks the end of a word
-  }
+    constructor() {
+        this.word = false
+        this.children = new Map()
+    }
 }
 
-// Define the Trie class
-class Trie {
-  constructor() {
-    this.root = new TrieNode();
-  }
+var Trie = function () {
+    this.root = new TrieNode()
+};
 
-  // Insert a word into the Trie
-  insert(word) {
-    let currentNode = this.root;
+/** 
+ * @param {string} word
+ * @return {void}
+ */
+Trie.prototype.insert = function (word) {
+    let curr = this.root
 
-    for (const char of word) {
-      if (!currentNode.children[char]) {
-        currentNode.children[char] = new TrieNode();
-      }
-      currentNode = currentNode.children[char];
+    for (const c of word) {
+        if (!curr.children.has(c)) {
+            curr.children.set(c, new TrieNode())
+        }
+        curr = curr.children.get(c)
     }
 
-    currentNode.isEndOfWord = true; // Mark the end of the word
-  }
+    curr.word = true
+};
 
-  // Search for a word in the Trie
-  search(word) {
-    let currentNode = this.root;
+/** 
+ * @param {string} word
+ * @return {boolean}
+ */
+Trie.prototype.search = function (word) {
+    let curr = this.root
 
-    for (const char of word) {
-      if (!currentNode.children[char]) {
-        return false; // If character is not found, the word doesn't exist
-      }
-      currentNode = currentNode.children[char];
+    for (const c of word) {
+        if (!curr.children.has(c)) return false
+        curr = curr.children.get(c)
     }
 
-    return currentNode.isEndOfWord; // Return true if it's the end of a word
-  }
+    return curr.word
+};
 
-  // Check if any word in the Trie starts with a given prefix
-  startsWith(prefix) {
-    let currentNode = this.root;
+/** 
+ * @param {string} prefix
+ * @return {boolean}
+ */
+Trie.prototype.startsWith = function (prefix) {
+    let curr = this.root
 
-    for (const char of prefix) {
-      if (!currentNode.children[char]) {
-        return false; // If character is not found, no word starts with the prefix
-      }
-      currentNode = currentNode.children[char];
+    for (const c of prefix) {
+        if (!curr.children.has(c)) return false
+        curr = curr.children.get(c)
     }
 
-    return true; // Prefix exists in the Trie
-  }
-}
+    return true
+};
+
+/** 
+ * Your Trie object will be instantiated and called as such:
+ * var obj = new Trie()
+ * obj.insert(word)
+ * var param_2 = obj.search(word)
+ * var param_3 = obj.startsWith(prefix)
+ */
