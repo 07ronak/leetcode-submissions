@@ -33,6 +33,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/07ronak/leetcode-submissions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/07ronak/leetcode-submissions/tree/master/0189-rotate-array) |
+| [0212-word-search-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -389,6 +390,7 @@
 | [0064-minimum-path-sum](https://github.com/07ronak/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/07ronak/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/07ronak/leetcode-submissions/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0427-construct-quad-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0427-construct-quad-tree) |
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
@@ -479,6 +481,7 @@
 | [0079-word-search](https://github.com/07ronak/leetcode-submissions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/07ronak/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/07ronak/leetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/07ronak/leetcode-submissions/tree/master/0316-remove-duplicate-letters) |
@@ -527,6 +530,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/07ronak/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0212-word-search-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/07ronak/leetcode-submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2707-extra-characters-in-a-string](https://github.com/07ronak/leetcode-submissions/tree/master/2707-extra-characters-in-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/07ronak/leetcode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -882,6 +886,7 @@
 | [0079-word-search](https://github.com/07ronak/leetcode-submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/07ronak/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0212-word-search-ii) |
 | [0401-binary-watch](https://github.com/07ronak/leetcode-submissions/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/07ronak/leetcode-submissions/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/07ronak/leetcode-submissions/tree/master/0698-partition-to-k-equal-sum-subsets) |
