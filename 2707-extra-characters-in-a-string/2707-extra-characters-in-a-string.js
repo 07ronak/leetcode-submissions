@@ -56,7 +56,7 @@ var minExtraChar = function (s, dictionary) {
     for (const word of dictionary) {
         trie.insert(word)
     }
-
+    const set = new Set(dictionary)
     const n = s.length
     const map = new Map()
     map.set(n, 0)
@@ -74,7 +74,7 @@ var minExtraChar = function (s, dictionary) {
         for (let i = idx; i < n; i++) {
             const str = s.substring(idx, i + 1)
             if (trie.startsWith(str)) {
-                if (trie.hasWord(str)) {
+                if (set.has(str)) {
                     res = Math.min(res, bt(i + 1))
                 }
             } else {
