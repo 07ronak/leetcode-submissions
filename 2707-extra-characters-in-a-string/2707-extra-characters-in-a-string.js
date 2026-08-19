@@ -5,7 +5,7 @@ class TrieNode {
     }
 }
 
-class Trie1 {
+class Trie {
     constructor() {
         this.root = new TrieNode()
     }
@@ -29,12 +29,13 @@ class Trie1 {
  * @return {number}
  */
 var minExtraChar = function (s, dictionary) {
-    const trie = new Trie1()
+    const n = s.length
+    const trie = new Trie()
+
     for (const word of dictionary) {
         trie.insert(word)
     }
 
-    const n = s.length
     const map = new Map()
     map.set(n, 0)
 
@@ -46,7 +47,6 @@ var minExtraChar = function (s, dictionary) {
         }
 
         let res = 1 + bt(idx + 1)
-
         let curr = trie.root
 
         for (let i = idx; i < n; i++) {
