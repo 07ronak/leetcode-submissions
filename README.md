@@ -57,6 +57,7 @@
 | [0912-sort-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/07ronak/leetcode-submissions/tree/master/0932-beautiful-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/07ronak/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/07ronak/leetcode-submissions/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/07ronak/leetcode-submissions/tree/master/1089-duplicate-zeros) |
 | [1095-find-in-mountain-array](https://github.com/07ronak/leetcode-submissions/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/07ronak/leetcode-submissions/tree/master/1140-stone-game-ii) |
@@ -278,6 +279,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/07ronak/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/07ronak/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/07ronak/leetcode-submissions/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/07ronak/leetcode-submissions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1912-design-movie-rental-system](https://github.com/07ronak/leetcode-submissions/tree/master/1912-design-movie-rental-system) |
