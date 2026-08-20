@@ -1,62 +1,93 @@
-class KthLargest {
-    constructor(k, nums) {
-        this.k = k;
-        this.minHeap = [];
-        
-        // Add all initial numbers to the min-heap
-        for (const num of nums) {
-            this.add(num);
-        }
+class MinHeapPQ {
+    constructor(k) {
+        this.arr = new Array(k + 1).fill(0);
+        this.size = 0;
+        this.capacity = k;
     }
 
-    // Helper function to maintain the heap property
-    add(val) {
-        if (this.minHeap.length < this.k) {
-            this.minHeap.push(val);
-            this._heapifyUp();
-        } else if (val > this.minHeap[0]) {
-            this.minHeap[0] = val;
-            this._heapifyDown();
-        }
-        return this.minHeap[0];
-    }
+    push(val) {
+        // If heap isn't full, add normally
+        if (this.size < this.capacity) {
+            this.size++;
+            this.arr[this.size] = val;
 
-    // Min-heapify up
-    _heapifyUp() {
-        let index = this.minHeap.length - 1;
-        while (index > 0) {
-            let parentIndex = Math.floor((index - 1) / 2);
-            if (this.minHeap[index] >= this.minHeap[parentIndex]) break;
-            this._swap(index, parentIndex);
-            index = parentIndex;
-        }
-    }
+            // Bubble up
+            let i = this.size;
+            while (i > 1) {
+                let parent = Math.floor(i / 2);
 
-    // Min-heapify down
-    _heapifyDown() {
-        let index = 0;
-        const length = this.minHeap.length;
+                if (this.arr[parent] <= this.arr[i]) break;
 
-        while (true) {
-            let leftChildIndex = 2 * index + 1;
-            let rightChildIndex = 2 * index + 2;
-            let smallest = index;
+                [this.arr[parent], this.arr[i]] =
+                    [this.arr[i], this.arr[parent]];
 
-            if (leftChildIndex < length && this.minHeap[leftChildIndex] < this.minHeap[smallest]) {
-                smallest = leftChildIndex;
+                i = parent;
             }
+        }
+        // If full, only replace root when val is larger
+        else if (val > this.arr[1]) {
+            this.arr[1] = val;
 
-            if (rightChildIndex < length && this.minHeap[rightChildIndex] < this.minHeap[smallest]) {
-                smallest = rightChildIndex;
+            // Bubble down
+            let i = 1;
+
+            while (true) {
+                let left = i * 2;
+                let right = i * 2 + 1;
+                let smallest = i;
+
+                if (
+                    left <= this.size &&
+                    this.arr[left] < this.arr[smallest]
+                ) {
+                    smallest = left;
+                }
+
+                if (
+                    right <= this.size &&
+                    this.arr[right] < this.arr[smallest]
+                ) {
+                    smallest = right;
+                }
+
+                if (smallest === i) break;
+
+                [this.arr[i], this.arr[smallest]] =
+                    [this.arr[smallest], this.arr[i]];
+
+                i = smallest;
             }
-
-            if (smallest === index) break;
-            this._swap(index, smallest);
-            index = smallest;
         }
     }
 
-    _swap(i, j) {
-        [this.minHeap[i], this.minHeap[j]] = [this.minHeap[j], this.minHeap[i]];
+    peek() {
+        return this.arr[1];
     }
 }
+
+/**
+ * @param {number} k
+ * @param {number[]} nums
+ */
+var KthLargest = function (k, nums) {
+    this.heap = new MinHeapPQ(k);
+
+    for (const num of nums) {
+        this.heap.push(num);
+    }
+};
+
+/** 
+ * @param {number} val
+ * @return {number}
+ */
+KthLargest.prototype.add = function (val) {
+    this.heap.push(val);
+    return this.heap.peek();
+};
+
+/** 
+ * Your KthLargest object will be instantiated and called as such:
+ * var obj = new KthLargest(k, nums)
+ * var param_1 = obj.add(val)
+ */
