@@ -1,4 +1,4 @@
-var Twitter = function() {
+var Twitter = function () {
     this.users = new Map();   // follower -> Set of followees
     this.tweets = new Map();  // userId -> [{ tweetId, time }]
     this.time = 0;
@@ -9,53 +9,63 @@ var Twitter = function() {
  * @param {number} tweetId
  * @return {void}
  */
-Twitter.prototype.postTweet = function(userId, tweetId) {
+Twitter.prototype.postTweet = function (userId, tweetId) {
+   /*  if (!this.users.has(userId)) {
+        this.users.set(userId, new Set())
+    } */
+
     if (!this.tweets.has(userId)) {
-        this.tweets.set(userId, []);
+        this.tweets.set(userId, [])
     }
 
     this.tweets.get(userId).push({
-        tweetId: tweetId,
+        id: tweetId,
         time: this.time++
-    });
+    })
 };
 
 /**
  * @param {number} userId
  * @return {number[]}
  */
-Twitter.prototype.getNewsFeed = function(userId) {
-    const heap = new MinHeap1(10);
+Twitter.prototype.getNewsFeed = function (userId) {
+    const heap = new MinHeap1(10)
+    const res = []
 
-    // User's own tweets
+    //get user's own tweets
     if (this.tweets.has(userId)) {
-        for (const tweet of this.tweets.get(userId)) {
-            heap.add(tweet);
+        const tweets = this.tweets.get(userId)
+        const n = tweets.length
+        const start = Math.max(0, n - 10)
+
+        for (let i = start; i < n; i++) {
+            heap.add(tweets[i])
         }
     }
 
-    // Followees' tweets
+    //get followers's tweets
     if (this.users.has(userId)) {
-        for (const followeeId of this.users.get(userId)) {
-            if (!this.tweets.has(followeeId)) continue;
+        const people = this.users.get(userId)
+        for (const acc of people) {
+            if (!this.tweets.has(acc)) continue
 
-            for (const tweet of this.tweets.get(followeeId)) {
-                heap.add(tweet);
+            const tweets = this.tweets.get(acc)
+            const n = tweets.length
+            const start = Math.max(0, n - 10)
+
+            for (let i = start; i < n; i++) {
+                heap.add(tweets[i])
             }
         }
     }
 
-    const result = [];
-
     while (!heap.isEmpty()) {
-        result.push(heap.remove().tweetId);
+        res.push(heap.remove().id)
     }
 
-    // Min heap gives oldest -> newest
-    // We need newest -> oldest
-    result.reverse();
+    res.reverse()
 
-    return result;
+    return res
 };
 
 /**
@@ -63,7 +73,7 @@ Twitter.prototype.getNewsFeed = function(userId) {
  * @param {number} followeeId
  * @return {void}
  */
-Twitter.prototype.follow = function(followerId, followeeId) {
+Twitter.prototype.follow = function (followerId, followeeId) {
     if (!this.users.has(followerId)) {
         this.users.set(followerId, new Set());
     }
@@ -76,7 +86,7 @@ Twitter.prototype.follow = function(followerId, followeeId) {
  * @param {number} followeeId
  * @return {void}
  */
-Twitter.prototype.unfollow = function(followerId, followeeId) {
+Twitter.prototype.unfollow = function (followerId, followeeId) {
     if (this.users.has(followerId)) {
         this.users.get(followerId).delete(followeeId);
     }
