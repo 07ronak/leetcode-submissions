@@ -1,112 +1,130 @@
+class MinHeap1 {
+    constructor(compare) {
+        this.heap = [];
+        this.compare = compare;
+    }
+
+    size() {
+        return this.heap.length;
+    }
+
+    isEmpty() {
+        return this.heap.length === 0;
+    }
+
+    push(value) {
+        this.heap.push(value);
+        this._bubbleUp(this.heap.length - 1);
+    }
+
+    pop() {
+        if (this.heap.length === 0) return null;
+
+        const min = this.heap[0];
+        const last = this.heap.pop();
+
+        if (this.heap.length > 0) {
+            this.heap[0] = last;
+            this._bubbleDown(0);
+        }
+
+        return min;
+    }
+
+    _bubbleUp(index) {
+        while (index > 0) {
+            const parent = Math.floor((index - 1) / 2);
+
+            if (this.compare(this.heap[index], this.heap[parent]) >= 0) {
+                break;
+            }
+
+            [this.heap[index], this.heap[parent]] =
+                [this.heap[parent], this.heap[index]];
+
+            index = parent;
+        }
+    }
+
+    _bubbleDown(index) {
+        const n = this.heap.length;
+
+        while (true) {
+            let smallest = index;
+            const left = 2 * index + 1;
+            const right = 2 * index + 2;
+
+            if (
+                left < n &&
+                this.compare(this.heap[left], this.heap[smallest]) < 0
+            ) {
+                smallest = left;
+            }
+
+            if (
+                right < n &&
+                this.compare(this.heap[right], this.heap[smallest]) < 0
+            ) {
+                smallest = right;
+            }
+
+            if (smallest === index) break;
+
+            [this.heap[index], this.heap[smallest]] =
+                [this.heap[smallest], this.heap[index]];
+
+            index = smallest;
+        }
+    }
+}
+
 /**
  * @param {number[][]} tasks
  * @return {number[]}
  */
 var getOrder = function (tasks) {
-    const n = tasks.length
+    const n = tasks.length;
 
+    // Add original index
     for (let i = 0; i < n; i++) {
-        tasks[i].push(i)
+        tasks[i].push(i);
     }
 
-    tasks.sort((a, b) => a[0] - b[0])
+    // Sort by enqueue time
+    tasks.sort((a, b) => a[0] - b[0]);
 
-    const res = []
-    const heap = new MinHeap1()
-    let time = 0
-    let i = 0
-
-    while (!heap.isEmpty() || i < n) {
-        if (heap.isEmpty() && tasks[i][0] > time) {
-            time = tasks[i][0]
-        }
-
-        while (i < n && time >= tasks[i][0]) {
-            const [eq, process, idx] = tasks[i]
-
-            heap.push([process, idx])
-            i++
-        }
-
-        const [exe, idx] = heap.pop()
-
-        time += exe
-        res.push(idx)
-    }
-
-    return res
-};
-
-/* 
-compare(a, b) < 0
-→ a should be above b
-
-compare(a, b) > 0
-→ b should be above a
-
-compare(a, b) === 0
-→ they are considered equal in priority
-*/
-
-class MinHeap1 {
-    constructor() {
-        this.arr = []
-    }
-    compare(a, b) {
+    // [processingTime, index]
+    const minHeap = new MinHeap1((a, b) => {
         if (a[0] !== b[0]) {
-            return a[0] - b[0]
+            return a[0] - b[0];
+        }
+        return a[1] - b[1];
+    });
+
+    const result = [];
+    let time = 0;
+    let i = 0;
+
+    while (i < n || !minHeap.isEmpty()) {
+        // If no tasks are available, jump time to the next task
+        if (minHeap.isEmpty() && time < tasks[i][0]) {
+            time = tasks[i][0];
         }
 
-        return a[1] - b[1]
-    }
-    isEmpty() {
-        return this.arr.length === 0
-    }
-    push(val) {
-        this.arr.push(val)
-        this.bubbleUp(this.arr.length - 1)
-    }
-    pop() {
-        const val = this.arr[0]
-        this.arr[0] = this.arr[this.arr.length - 1]
-        this.arr.pop()
+        // Add all tasks available at the current time
+        while (i < n && tasks[i][0] <= time) {
+            const [enqueueTime, processingTime, index] = tasks[i];
 
-        this.bubbleDown(0)
-
-        return val
-    }
-    bubbleUp(idx) {
-        while (idx > 0) {
-            const parent = Math.floor((idx - 1) / 2)
-
-            if (this.compare(this.arr[idx], this.arr[parent]) >= 0) break
-
-            [this.arr[parent], this.arr[idx]] = [this.arr[idx], this.arr[parent]]
-
-            idx = parent
+            minHeap.push([processingTime, index]);
+            i++;
         }
+
+        // Process the shortest available task
+        const [processingTime, index] = minHeap.pop();
+
+        result.push(index);
+        time += processingTime;
     }
-    bubbleDown(idx) {
-        const n = this.arr.length
-        while (true) {
-            let smallest = idx
 
-            const left = 2 * idx + 1
-            const right = left + 1
-
-            if (left < n && this.compare(this.arr[smallest], this.arr[left]) > 0) {
-                smallest = left
-            }
-
-            if (right < n && this.compare(this.arr[smallest], this.arr[right]) > 0) {
-                smallest = right
-            }
-
-            if (smallest === idx) break
-
-            [this.arr[smallest], this.arr[idx]] = [this.arr[idx], this.arr[smallest]]
-
-            idx = smallest
-        }
-    }
-}
+    return result;
+};
