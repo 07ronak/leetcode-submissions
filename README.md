@@ -151,6 +151,7 @@
 | [0767-reorganize-string](https://github.com/07ronak/leetcode-submissions/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/07ronak/leetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/07ronak/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
+| [1405-longest-happy-string](https://github.com/07ronak/leetcode-submissions/tree/master/1405-longest-happy-string) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/07ronak/leetcode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/07ronak/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
@@ -293,6 +294,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/07ronak/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/07ronak/leetcode-submissions/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/07ronak/leetcode-submissions/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1405-longest-happy-string](https://github.com/07ronak/leetcode-submissions/tree/master/1405-longest-happy-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1834-single-threaded-cpu](https://github.com/07ronak/leetcode-submissions/tree/master/1834-single-threaded-cpu) |
 | [1912-design-movie-rental-system](https://github.com/07ronak/leetcode-submissions/tree/master/1912-design-movie-rental-system) |
@@ -525,6 +527,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/07ronak/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/07ronak/leetcode-submissions/tree/master/1392-longest-happy-prefix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/07ronak/leetcode-submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1405-longest-happy-string](https://github.com/07ronak/leetcode-submissions/tree/master/1405-longest-happy-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/07ronak/leetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/07ronak/leetcode-submissions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/07ronak/leetcode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
