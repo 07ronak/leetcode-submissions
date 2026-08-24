@@ -92,6 +92,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/07ronak/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1861-rotating-the-box](https://github.com/07ronak/leetcode-submissions/tree/master/1861-rotating-the-box) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/07ronak/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1872-stone-game-viii](https://github.com/07ronak/leetcode-submissions/tree/master/1872-stone-game-viii) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/07ronak/leetcode-submissions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1895-largest-magic-square](https://github.com/07ronak/leetcode-submissions/tree/master/1895-largest-magic-square) |
 | [1912-design-movie-rental-system](https://github.com/07ronak/leetcode-submissions/tree/master/1912-design-movie-rental-system) |
@@ -389,6 +390,7 @@
 | [1563-stone-game-v](https://github.com/07ronak/leetcode-submissions/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/07ronak/leetcode-submissions/tree/master/1840-maximum-building-height) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/07ronak/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1872-stone-game-viii](https://github.com/07ronak/leetcode-submissions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/07ronak/leetcode-submissions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/07ronak/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/07ronak/leetcode-submissions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -460,6 +462,7 @@
 | [1563-stone-game-v](https://github.com/07ronak/leetcode-submissions/tree/master/1563-stone-game-v) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/07ronak/leetcode-submissions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/07ronak/leetcode-submissions/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/07ronak/leetcode-submissions/tree/master/1872-stone-game-viii) |
 | [2707-extra-characters-in-a-string](https://github.com/07ronak/leetcode-submissions/tree/master/2707-extra-characters-in-a-string) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/07ronak/leetcode-submissions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3225-maximum-score-from-grid-operations](https://github.com/07ronak/leetcode-submissions/tree/master/3225-maximum-score-from-grid-operations) |
@@ -627,6 +630,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/07ronak/leetcode-submissions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/07ronak/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/07ronak/leetcode-submissions/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/07ronak/leetcode-submissions/tree/master/1872-stone-game-viii) |
 | [1895-largest-magic-square](https://github.com/07ronak/leetcode-submissions/tree/master/1895-largest-magic-square) |
 | [2574-left-and-right-sum-differences](https://github.com/07ronak/leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/07ronak/leetcode-submissions/tree/master/2615-sum-of-distances) |
@@ -1018,6 +1022,7 @@
 | [1406-stone-game-iii](https://github.com/07ronak/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/07ronak/leetcode-submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/07ronak/leetcode-submissions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/07ronak/leetcode-submissions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/07ronak/leetcode-submissions/tree/master/1927-sum-game) |
 ## Binary Lifting
 |  |
@@ -1032,11 +1037,13 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/07ronak/leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/07ronak/leetcode-submissions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/07ronak/leetcode-submissions/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/07ronak/leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/07ronak/leetcode-submissions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/07ronak/leetcode-submissions/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
