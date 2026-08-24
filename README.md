@@ -44,6 +44,7 @@
 | [0410-split-array-largest-sum](https://github.com/07ronak/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0427-construct-quad-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0427-construct-quad-tree) |
 | [0473-matchsticks-to-square](https://github.com/07ronak/leetcode-submissions/tree/master/0473-matchsticks-to-square) |
+| [0502-ipo](https://github.com/07ronak/leetcode-submissions/tree/master/0502-ipo) |
 | [0622-design-circular-queue](https://github.com/07ronak/leetcode-submissions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/07ronak/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/07ronak/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
@@ -150,6 +151,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/07ronak/leetcode-submissions/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/07ronak/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/07ronak/leetcode-submissions/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/07ronak/leetcode-submissions/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/07ronak/leetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/07ronak/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
@@ -290,6 +292,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/07ronak/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/07ronak/leetcode-submissions/tree/master/0355-design-twitter) |
+| [0502-ipo](https://github.com/07ronak/leetcode-submissions/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/07ronak/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/07ronak/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/07ronak/leetcode-submissions/tree/master/0743-network-delay-time) |
@@ -326,6 +329,7 @@
 | [0229-majority-element-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/07ronak/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0502-ipo](https://github.com/07ronak/leetcode-submissions/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/07ronak/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/07ronak/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/07ronak/leetcode-submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
