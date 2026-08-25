@@ -21,17 +21,19 @@ var postorderTraversal = function (root) {
         const node = stack.pop()
         const visited = visit.pop()
 
-        if (node) {
-            if (visited) {
-                res.push(node.val)
-            } else {
-                //visit the node again but mark it true this time
-                stack.push(node)
-                visit.push(true)
+        if (visited) {
+            res.push(node.val)
+        } else {
+            //visit the node again but mark it true this time
+            stack.push(node)
+            visit.push(true)
 
-                //do children
+            //do children
+            if (node.right) {
                 stack.push(node.right)
                 visit.push(false)
+            }
+            if (node.left) {
                 stack.push(node.left)
                 visit.push(false)
             }
