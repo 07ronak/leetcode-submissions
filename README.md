@@ -187,6 +187,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/07ronak/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/07ronak/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/07ronak/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/07ronak/leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/07ronak/leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -692,6 +693,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/07ronak/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/07ronak/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/07ronak/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/07ronak/leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/07ronak/leetcode-submissions/tree/master/0316-remove-duplicate-letters) |
@@ -853,6 +855,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/07ronak/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/07ronak/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/07ronak/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/07ronak/leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/07ronak/leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0226-invert-binary-tree) |
@@ -891,6 +894,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/07ronak/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/07ronak/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/07ronak/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/07ronak/leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/07ronak/leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0226-invert-binary-tree) |
