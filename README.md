@@ -19,6 +19,7 @@
 | [0048-rotate-image](https://github.com/07ronak/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/07ronak/leetcode-submissions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/07ronak/leetcode-submissions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/07ronak/leetcode-submissions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/07ronak/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/07ronak/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/07ronak/leetcode-submissions/tree/master/0075-sort-colors) |
@@ -152,6 +153,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/07ronak/leetcode-submissions/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/07ronak/leetcode-submissions/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/07ronak/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/07ronak/leetcode-submissions/tree/master/0502-ipo) |
@@ -460,6 +462,7 @@
 | [0022-generate-parentheses](https://github.com/07ronak/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/07ronak/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/07ronak/leetcode-submissions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/07ronak/leetcode-submissions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/07ronak/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/07ronak/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/07ronak/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
