@@ -1,25 +1,27 @@
-var maxTurbulenceSize = function(arr) {
+/**
+ * @param {number[]} arr
+ * @return {number}
+ */
+var maxTurbulenceSize = function (arr) {
     const n = arr.length
-    let ans = 1;
-    let cur = 1;
-    let prevDiff = 0;
+    let prevDiff = 0
+    let max = 1
+    let curr = 1
 
     for (let i = 1; i < n; i++) {
-        const diff = arr[i] - arr[i - 1];
+        const diff = arr[i] - arr[i - 1]
 
         if (diff === 0) {
-            cur = 1;
-        } else if (prevDiff * diff < 0) {
-            // Sign alternates → extend turbulence
-            cur++;
+            curr = 1
+        } else if (diff * prevDiff < 0) {
+            curr++
         } else {
-            // Pattern breaks → start with the last two elements
-            cur = 2;
+            curr = 2
         }
 
-        prevDiff = diff;
-        ans = Math.max(ans, cur);
+        prevDiff = diff
+        max = Math.max(max, curr)
     }
 
-    return ans;
+    return max
 };
