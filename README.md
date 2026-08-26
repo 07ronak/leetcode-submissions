@@ -58,6 +58,7 @@
 | [0875-koko-eating-bananas](https://github.com/07ronak/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/07ronak/leetcode-submissions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/07ronak/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/07ronak/leetcode-submissions/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/07ronak/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/07ronak/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -469,6 +470,7 @@
 | [0788-rotated-digits](https://github.com/07ronak/leetcode-submissions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/07ronak/leetcode-submissions/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/07ronak/leetcode-submissions/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/07ronak/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1140-stone-game-ii](https://github.com/07ronak/leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/07ronak/leetcode-submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/07ronak/leetcode-submissions/tree/master/1340-jump-game-v) |
@@ -832,6 +834,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0427-construct-quad-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0427-construct-quad-tree) |
 | [0912-sort-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/07ronak/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/07ronak/leetcode-submissions/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/07ronak/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [3719-longest-balanced-subarray-i](https://github.com/07ronak/leetcode-submissions/tree/master/3719-longest-balanced-subarray-i) |
@@ -1020,6 +1023,7 @@
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/07ronak/leetcode-submissions/tree/master/0622-design-circular-queue) |
+| [0918-maximum-sum-circular-subarray](https://github.com/07ronak/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1112,4 +1116,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/07ronak/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/07ronak/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
