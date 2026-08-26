@@ -427,6 +427,7 @@
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/07ronak/leetcode-submissions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/07ronak/leetcode-submissions/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Matrix
 |  |
 | ------- |
@@ -576,6 +577,7 @@
 | [3714-longest-balanced-substring-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3714-longest-balanced-substring-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/07ronak/leetcode-submissions/tree/master/3838-weighted-word-mapping) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/07ronak/leetcode-submissions/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Trie
 |  |
 | ------- |
@@ -636,6 +638,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/07ronak/leetcode-submissions/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/07ronak/leetcode-submissions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/07ronak/leetcode-submissions/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Prefix Sum
 |  |
 | ------- |
