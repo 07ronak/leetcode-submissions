@@ -161,6 +161,7 @@
 | [0410-split-array-largest-sum](https://github.com/07ronak/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/07ronak/leetcode-submissions/tree/master/0502-ipo) |
 | [0649-dota2-senate](https://github.com/07ronak/leetcode-submissions/tree/master/0649-dota2-senate) |
+| [0763-partition-labels](https://github.com/07ronak/leetcode-submissions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/07ronak/leetcode-submissions/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/07ronak/leetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/07ronak/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
@@ -247,6 +248,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/07ronak/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/07ronak/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0460-lfu-cache](https://github.com/07ronak/leetcode-submissions/tree/master/0460-lfu-cache) |
+| [0763-partition-labels](https://github.com/07ronak/leetcode-submissions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/07ronak/leetcode-submissions/tree/master/0767-reorganize-string) |
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
 | [0981-time-based-key-value-store](https://github.com/07ronak/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
@@ -523,6 +525,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/07ronak/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/07ronak/leetcode-submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0763-partition-labels](https://github.com/07ronak/leetcode-submissions/tree/master/0763-partition-labels) |
 | [1089-duplicate-zeros](https://github.com/07ronak/leetcode-submissions/tree/master/1089-duplicate-zeros) |
 | [1861-rotating-the-box](https://github.com/07ronak/leetcode-submissions/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -553,6 +556,7 @@
 | [0520-detect-capital](https://github.com/07ronak/leetcode-submissions/tree/master/0520-detect-capital) |
 | [0649-dota2-senate](https://github.com/07ronak/leetcode-submissions/tree/master/0649-dota2-senate) |
 | [0686-repeated-string-match](https://github.com/07ronak/leetcode-submissions/tree/master/0686-repeated-string-match) |
+| [0763-partition-labels](https://github.com/07ronak/leetcode-submissions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/07ronak/leetcode-submissions/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/07ronak/leetcode-submissions/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/07ronak/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
