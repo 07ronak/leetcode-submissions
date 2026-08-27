@@ -102,6 +102,7 @@
 | [1872-stone-game-viii](https://github.com/07ronak/leetcode-submissions/tree/master/1872-stone-game-viii) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/07ronak/leetcode-submissions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1895-largest-magic-square](https://github.com/07ronak/leetcode-submissions/tree/master/1895-largest-magic-square) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/07ronak/leetcode-submissions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1912-design-movie-rental-system](https://github.com/07ronak/leetcode-submissions/tree/master/1912-design-movie-rental-system) |
 | [1914-cyclically-rotating-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/07ronak/leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -168,6 +169,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/07ronak/leetcode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/07ronak/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/07ronak/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/07ronak/leetcode-submissions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1927-sum-game](https://github.com/07ronak/leetcode-submissions/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/07ronak/leetcode-submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/07ronak/leetcode-submissions/tree/master/2126-destroying-asteroids) |
