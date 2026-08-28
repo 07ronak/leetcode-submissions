@@ -58,6 +58,7 @@
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
 | [0849-maximize-distance-to-closest-person](https://github.com/07ronak/leetcode-submissions/tree/master/0849-maximize-distance-to-closest-person) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/07ronak/leetcode-submissions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/07ronak/leetcode-submissions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/07ronak/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/07ronak/leetcode-submissions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/0912-sort-an-array) |
@@ -166,6 +167,7 @@
 | [0678-valid-parenthesis-string](https://github.com/07ronak/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/07ronak/leetcode-submissions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/07ronak/leetcode-submissions/tree/master/0767-reorganize-string) |
+| [0860-lemonade-change](https://github.com/07ronak/leetcode-submissions/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/07ronak/leetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/07ronak/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1405-longest-happy-string](https://github.com/07ronak/leetcode-submissions/tree/master/1405-longest-happy-string) |
