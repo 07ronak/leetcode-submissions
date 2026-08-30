@@ -3,52 +3,48 @@
  * @param {number[][]} meetings
  * @return {number}
  */
-var mostBooked = function(n, meetings) {
-    const m = meetings.length
+var mostBooked = function (n, meetings) {
+    const count = new Array(n).fill(0)
+    const free = new Array(n).fill(0)
+    meetings.sort((a, b) => a[0] - b[0])
 
-    meetings.sort((a,b)=> a[0]-b[0])
-
-    const times = new Array(n).fill(0)
-    const meet = new Array(n).fill(0)
-
-    for(let [start,end] of meetings){
-        let roomIdx = -1
-        let isFree = false
+    for (const [st, end] of meetings) {
+        let idx = -1
+        let found = false
         let min = Infinity
 
-        for(let i=0; i<n; i++){
-            let et = meet[i]
-            
-            if(et<=start){
-                isFree = true
-                roomIdx = i
+        for (let i = 0; i < n; i++) {
+            if (free[i] <= st) {
+                idx = i
+                found = true
                 break
-            } else{
-                if(et<min){
-                    min = et
-                    roomIdx = i
+            } else {
+                if (free[i] < min) {
+                    idx = i
+                    min = free[i]
                 }
             }
         }
 
-        if(isFree){
-            meet[roomIdx] = end
-        } else{
-            meet[roomIdx] += (end-start)
+        if (found) {
+            free[idx] = end
+            count[idx]++
+            continue
         }
 
-        times[roomIdx]++
+        free[idx] += end-st
+        count[idx]++
     }
 
-    let max = times[0]
-    let idx = 0
+    let ans = 0
+    let max = count[0]
 
-    for(let i=1; i<n; i++){
-        if(times[i]>max){
-            max = times[i]
-            idx = i
+    for (let i = 1; i < n; i++) {
+        if (count[i] > max) {
+            max = count[i]
+            ans = i
         }
     }
 
-    return idx
+    return ans
 };
