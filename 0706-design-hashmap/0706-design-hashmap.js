@@ -7,7 +7,7 @@ class ListNode {
 }
 
 var MyHashMap = function () {
-    this.arr = Array.from({ length: 10000 }, () => new ListNode(0, 0))
+    this.arr = Array.from({ length: 1000 }, () => new ListNode(0, 0))
 };
 
 /** 
@@ -16,7 +16,7 @@ var MyHashMap = function () {
  * @return {void}
  */
 MyHashMap.prototype.put = function (key, value) {
-    const idx = key % 10000
+    const idx = key % 1000
     let curr = this.arr[idx]
 
     while (curr.next) {
@@ -34,7 +34,7 @@ MyHashMap.prototype.put = function (key, value) {
  * @return {number}
  */
 MyHashMap.prototype.get = function (key) {
-    const idx = key % 10000
+    const idx = key % 1000
     let curr = this.arr[idx]
 
     while (curr.next) {
@@ -52,7 +52,7 @@ MyHashMap.prototype.get = function (key) {
  * @return {void}
  */
 MyHashMap.prototype.remove = function (key) {
-    const idx = key % 10000
+    const idx = key % 1000
     let curr = this.arr[idx]
 
     while (curr.next) {
