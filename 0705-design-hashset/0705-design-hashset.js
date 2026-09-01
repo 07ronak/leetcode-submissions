@@ -1,12 +1,92 @@
-class ListNode1 {
-    constructor(val) {
+class Node1 {
+    constructor(val, left = null, right = null) {
         this.val = val
-        this.next = null
+        this.left = left
+        this.right = right
+    }
+}
+
+class BST {
+    constructor() {
+        this.root = null
+    }
+
+    _insert(node, key) {
+        if (!node) return new Node1(key)
+
+        if (node.val === key) {
+            return node
+        }
+
+        if (key > node.val) {
+            node.right = this._insert(node.right, key)
+        } else {
+            node.left = this._insert(node.left, key)
+        }
+
+        return node
+    }
+
+    add(key) {
+        this.root = this._insert(this.root, key)
+    }
+
+    contains(key) {
+        if (!this.root) return false
+
+        let curr = this.root
+
+        while (curr) {
+            if (curr.val === key) return true
+
+            if (curr.val < key) {
+                curr = curr.right
+            } else {
+                curr = curr.left
+            }
+        }
+
+        return false
+    }
+
+    _delete(node, key) {
+        if (!node) return null
+
+        if (key > node.val) {
+            node.right = this._delete(node.right, key)
+        } else if (key < node.val) {
+            node.left = this._delete(node.left, key)
+        } else {
+            //found it
+            if (!node.right) {
+                return node.left
+            }
+            if (!node.left) {
+                return node.right
+            }
+            //we have both children
+            const min = this.findMin(node.right)
+            node.val = min
+            node.right = this._delete(node.right, min)
+        }
+
+        return node
+    }
+
+    remove(key) {
+        this.root = this._delete(this.root, key)
+    }
+
+    findMin(node) {
+        while (node.left) {
+            node = node.left
+        }
+        return node.val
     }
 }
 
 var MyHashSet = function () {
-    this.arr = Array.from({ length: 10000 }, () => new ListNode1(0));
+    this.arr = Array.from({ length: 10000 }, () => new BST())
 };
 
 /** 
@@ -15,15 +95,7 @@ var MyHashSet = function () {
  */
 MyHashSet.prototype.add = function (key) {
     const idx = key % 10000
-    let curr = this.arr[idx]
-
-    while (curr.next) {
-        if (curr.next.val === key) {
-            return
-        }
-        curr = curr.next
-    }
-    curr.next = new ListNode1(key)
+    this.arr[idx].add(key)
 };
 
 /** 
@@ -32,15 +104,7 @@ MyHashSet.prototype.add = function (key) {
  */
 MyHashSet.prototype.remove = function (key) {
     const idx = key % 10000
-    let curr = this.arr[idx]
-
-    while (curr.next) {
-        if (curr.next.val === key) {
-            curr.next = curr.next.next
-            break
-        }
-        curr = curr.next
-    }
+    this.arr[idx].remove(key)
 };
 
 /** 
@@ -49,16 +113,7 @@ MyHashSet.prototype.remove = function (key) {
  */
 MyHashSet.prototype.contains = function (key) {
     const idx = key % 10000
-    let curr = this.arr[idx]
-
-    while (curr.next) {
-        if (curr.next.val === key) {
-            return true
-        }
-        curr = curr.next
-    }
-
-    return false
+    return this.arr[idx].contains(key)
 };
 
 /** 
