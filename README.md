@@ -55,6 +55,7 @@
 | [0658-find-k-closest-elements](https://github.com/07ronak/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/07ronak/leetcode-submissions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/07ronak/leetcode-submissions/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/07ronak/leetcode-submissions/tree/master/0705-design-hashset) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/07ronak/leetcode-submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
 | [0849-maximize-distance-to-closest-person](https://github.com/07ronak/leetcode-submissions/tree/master/0849-maximize-distance-to-closest-person) |
@@ -258,6 +259,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/07ronak/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/07ronak/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0460-lfu-cache](https://github.com/07ronak/leetcode-submissions/tree/master/0460-lfu-cache) |
+| [0705-design-hashset](https://github.com/07ronak/leetcode-submissions/tree/master/0705-design-hashset) |
 | [0763-partition-labels](https://github.com/07ronak/leetcode-submissions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/07ronak/leetcode-submissions/tree/master/0767-reorganize-string) |
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
@@ -307,6 +309,7 @@
 | [0460-lfu-cache](https://github.com/07ronak/leetcode-submissions/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/07ronak/leetcode-submissions/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/07ronak/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/07ronak/leetcode-submissions/tree/master/0705-design-hashset) |
 | [0981-time-based-key-value-store](https://github.com/07ronak/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [1912-design-movie-rental-system](https://github.com/07ronak/leetcode-submissions/tree/master/1912-design-movie-rental-system) |
 ## Heap (Priority Queue)
@@ -724,6 +727,7 @@
 | [0355-design-twitter](https://github.com/07ronak/leetcode-submissions/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/07ronak/leetcode-submissions/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/07ronak/leetcode-submissions/tree/master/0622-design-circular-queue) |
+| [0705-design-hashset](https://github.com/07ronak/leetcode-submissions/tree/master/0705-design-hashset) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/07ronak/leetcode-submissions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1015,6 +1019,7 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/07ronak/leetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/07ronak/leetcode-submissions/tree/master/0705-design-hashset) |
 | [1392-longest-happy-prefix](https://github.com/07ronak/leetcode-submissions/tree/master/1392-longest-happy-prefix) |
 ## Shortest Path
 |  |
