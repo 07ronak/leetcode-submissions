@@ -3,32 +3,27 @@
  * @param {number} target
  * @return {number}
  */
-var search = function(nums, target) {
-    let left = 0
-    let right = nums.length-1
+var search = function (nums, target) {
+    let l = 0
+    let r = nums.length - 1
 
-    while(right>=left){
-        const mid = Math.floor((left+right)/2)
-        const val = nums[mid]
+    while (r > l) {
+        const mid = Math.floor((l + r) / 2)
 
-        if(val===target) return mid
-
-        if(nums[right]>val){
-            //right part is sorted
-            if(target>val && target<=nums[right]){
-                left = mid + 1
-            } else{
-                right = mid - 1
+        if (nums[r] > nums[mid]) {
+            if (nums[r] >= target && target > nums[mid]) {
+                l = mid + 1
+            } else {
+                r = mid
             }
-        } else{
-            //left part is sorted
-            if(target>=nums[left] && target<nums[mid]){
-                right = mid -1
-            } else{
-                left = mid + 1
+        } else {
+            if (nums[l] <= target && nums[mid] >= target) {
+                r = mid
+            } else {
+                l = mid + 1
             }
         }
     }
 
-    return -1
+    return nums[l] === target ? l : -1
 };
