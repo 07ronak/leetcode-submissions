@@ -546,6 +546,7 @@
 | [0031-next-permutation](https://github.com/07ronak/leetcode-submissions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/07ronak/leetcode-submissions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/07ronak/leetcode-submissions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/07ronak/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/07ronak/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/07ronak/leetcode-submissions/tree/master/0148-sort-list) |
@@ -574,6 +575,7 @@
 | [0022-generate-parentheses](https://github.com/07ronak/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/07ronak/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/07ronak/leetcode-submissions/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/07ronak/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/07ronak/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0212-word-search-ii) |
