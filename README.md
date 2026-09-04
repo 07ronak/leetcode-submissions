@@ -260,6 +260,7 @@
 | [0217-contains-duplicate](https://github.com/07ronak/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/07ronak/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/07ronak/leetcode-submissions/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/07ronak/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
@@ -364,6 +365,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/07ronak/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/07ronak/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/07ronak/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/07ronak/leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
@@ -576,6 +578,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/07ronak/leetcode-submissions/tree/master/0214-shortest-palindrome) |
+| [0242-valid-anagram](https://github.com/07ronak/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/07ronak/leetcode-submissions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/07ronak/leetcode-submissions/tree/master/0394-decode-string) |
