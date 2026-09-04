@@ -2,23 +2,21 @@
  * @param {number[]} nums
  * @return {number}
  */
-var findMin = function(nums) {
-    let left = 0
-    let right = nums.length-1
+var findMin = function (nums) {
+    const n = nums.length
 
-    while(right>left){
-        if(nums[left]<nums[right]){
-            return nums[left]
-        }
+    let l = 0
+    let r = n - 1
 
-        let mid = Math.floor((left+right)/2)
+    while (r > l) {
+        const mid = Math.floor((l + r) / 2)
 
-        if(nums[mid]>nums[right]){
-            left = mid+1
-        } else{
-            right = mid
+        if(nums[mid] > nums[r]){
+            l = mid + 1
+        } else {
+            r = mid
         }
     }
-
-    return nums[left]
+    
+    return nums[l]
 };
