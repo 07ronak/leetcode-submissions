@@ -4,12 +4,15 @@
  * @return {number[][]}
  */
 var combinationSum = function (candidates, target) {
-    let res = []
-    const n = candidates.length
+    const ans = []
+    const n = candidates.length;
 
-    function bt(start, sum, arr) {
+    bt([], 0, 0)
+    return ans
+
+    function bt(arr, sum, start) {
         if (sum === target) {
-            res.push([...arr])
+            ans.push([...arr])
             return
         }
 
@@ -19,11 +22,8 @@ var combinationSum = function (candidates, target) {
 
         for (let i = start; i < n; i++) {
             arr.push(candidates[i])
-            bt(i, sum + candidates[i], arr)
+            bt(arr, sum + candidates[i], i)
             arr.pop()
         }
     }
-
-    bt(0, 0, [])
-    return res
 };
