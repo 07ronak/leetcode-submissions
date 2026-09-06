@@ -18,6 +18,7 @@
 | [0046-permutations](https://github.com/07ronak/leetcode-submissions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/07ronak/leetcode-submissions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/07ronak/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/07ronak/leetcode-submissions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/07ronak/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/07ronak/leetcode-submissions/tree/master/0055-jump-game) |
@@ -253,6 +254,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/07ronak/leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/07ronak/leetcode-submissions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/07ronak/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/07ronak/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/07ronak/leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/07ronak/leetcode-submissions/tree/master/0138-copy-list-with-random-pointer) |
@@ -362,6 +364,7 @@
 | [0015-3sum](https://github.com/07ronak/leetcode-submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/07ronak/leetcode-submissions/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/07ronak/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/07ronak/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/07ronak/leetcode-submissions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/07ronak/leetcode-submissions/tree/master/0148-sort-list) |
@@ -580,6 +583,7 @@
 | [0020-valid-parentheses](https://github.com/07ronak/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/07ronak/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/07ronak/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/07ronak/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/07ronak/leetcode-submissions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/07ronak/leetcode-submissions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/07ronak/leetcode-submissions/tree/master/0125-valid-palindrome) |
