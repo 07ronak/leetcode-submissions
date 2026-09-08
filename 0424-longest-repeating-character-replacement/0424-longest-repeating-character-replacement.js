@@ -3,27 +3,25 @@
  * @param {number} k
  * @return {number}
  */
-var characterReplacement = function(s, k) {
-    let left = 0
-    const n = s.length
-    let fm = {}
+var characterReplacement = function (s, k) {
     let ans = 1
-    let max = 1
+    const n = s.length
+    let count = new Array(26).fill(0)
+    let left = 0
+    let maxf = 1
 
-    for(let right = 0; right<n; right++){
-        let char = s[right]
-        fm[char] = (fm[char] ||0) +1
+    for (let right = 0; right < n; right++) {
+        const idx = s.charCodeAt(right) - 65
+        count[idx]++
 
-        max = Math.max(max, fm[char])
-        let windowLen = right-left+1
+        maxf = Math.max(maxf, count[idx])
 
-        if(windowLen - max <= k){
-            ans = Math.max(ans, windowLen)
-        } else{
-            fm[s[left]]--
+        if (right - left + 1 - maxf > k) {
+            count[s.charCodeAt(left) - 65]--
             left++
         }
-        //console.log(fm)
+
+        ans = Math.max(ans, right - left + 1)
     }
 
     return ans
