@@ -13,18 +13,16 @@
  * @return {TreeNode}
  */
 var lowestCommonAncestor = function (root, p, q) {
-    const max = Math.max(p.val, q.val)
-    const min = Math.min(p.val, q.val)
-
-    let curr = root
-
-    while(true){
-        if(curr.val > max){
-            curr = curr.left
-        } else if(curr.val < min){
-            curr = curr.right
-        } else{
-            return curr
-        }
+    if (!root || root === p || root === q) {
+        return root
     }
+
+    const left = lowestCommonAncestor(root.left, p, q)
+    const right = lowestCommonAncestor(root.right, p, q)
+
+    if (left && right) {
+        return root
+    }
+
+    return (left || right)
 };
