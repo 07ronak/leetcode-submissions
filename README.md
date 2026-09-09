@@ -257,6 +257,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/07ronak/leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/07ronak/leetcode-submissions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/07ronak/leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/07ronak/leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/07ronak/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/07ronak/leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/07ronak/leetcode-submissions/tree/master/0138-copy-list-with-random-pointer) |
@@ -589,6 +590,7 @@
 | [0022-generate-parentheses](https://github.com/07ronak/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/07ronak/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/07ronak/leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/07ronak/leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/07ronak/leetcode-submissions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/07ronak/leetcode-submissions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/07ronak/leetcode-submissions/tree/master/0125-valid-palindrome) |
@@ -886,6 +888,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/07ronak/leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/07ronak/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/07ronak/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
