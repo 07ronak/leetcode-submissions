@@ -445,6 +445,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/07ronak/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/07ronak/leetcode-submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/07ronak/leetcode-submissions/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/07ronak/leetcode-submissions/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/07ronak/leetcode-submissions/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/07ronak/leetcode-submissions/tree/master/0932-beautiful-array) |
@@ -863,6 +864,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/07ronak/leetcode-submissions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/07ronak/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/07ronak/leetcode-submissions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Bit Manipulation
