@@ -292,6 +292,7 @@
 | [0767-reorganize-string](https://github.com/07ronak/leetcode-submissions/tree/master/0767-reorganize-string) |
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
 | [0981-time-based-key-value-store](https://github.com/07ronak/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
+| [1096-brace-expansion-ii](https://github.com/07ronak/leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/07ronak/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/07ronak/leetcode-submissions/tree/master/1345-jump-game-iv) |
@@ -400,6 +401,7 @@
 | [0912-sort-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/07ronak/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/07ronak/leetcode-submissions/tree/master/1094-car-pooling) |
+| [1096-brace-expansion-ii](https://github.com/07ronak/leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/07ronak/leetcode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/07ronak/leetcode-submissions/tree/master/1340-jump-game-v) |
@@ -643,6 +645,7 @@
 | [0796-rotate-string](https://github.com/07ronak/leetcode-submissions/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/07ronak/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/07ronak/leetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/07ronak/leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/07ronak/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/07ronak/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/07ronak/leetcode-submissions/tree/master/1392-longest-happy-prefix) |
@@ -706,6 +709,7 @@
 | [0279-perfect-squares](https://github.com/07ronak/leetcode-submissions/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0743-network-delay-time](https://github.com/07ronak/leetcode-submissions/tree/master/0743-network-delay-time) |
+| [1096-brace-expansion-ii](https://github.com/07ronak/leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1345-jump-game-iv](https://github.com/07ronak/leetcode-submissions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -818,6 +822,7 @@
 | [0394-decode-string](https://github.com/07ronak/leetcode-submissions/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/07ronak/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/07ronak/leetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/07ronak/leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/07ronak/leetcode-submissions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -1085,6 +1090,7 @@
 | [0401-binary-watch](https://github.com/07ronak/leetcode-submissions/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/07ronak/leetcode-submissions/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/07ronak/leetcode-submissions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1096-brace-expansion-ii](https://github.com/07ronak/leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/07ronak/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Indexed Tree
