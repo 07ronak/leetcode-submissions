@@ -107,6 +107,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/07ronak/leetcode-submissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/07ronak/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1765-map-of-highest-peak](https://github.com/07ronak/leetcode-submissions/tree/master/1765-map-of-highest-peak) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/07ronak/leetcode-submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/07ronak/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/07ronak/leetcode-submissions/tree/master/1834-single-threaded-cpu) |
 | [1840-maximum-building-height](https://github.com/07ronak/leetcode-submissions/tree/master/1840-maximum-building-height) |
@@ -303,6 +304,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/07ronak/leetcode-submissions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/07ronak/leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/07ronak/leetcode-submissions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/07ronak/leetcode-submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1912-design-movie-rental-system](https://github.com/07ronak/leetcode-submissions/tree/master/1912-design-movie-rental-system) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/07ronak/leetcode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2402-meeting-rooms-iii](https://github.com/07ronak/leetcode-submissions/tree/master/2402-meeting-rooms-iii) |
@@ -656,6 +658,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/07ronak/leetcode-submissions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/07ronak/leetcode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/07ronak/leetcode-submissions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/07ronak/leetcode-submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1871-jump-game-vii](https://github.com/07ronak/leetcode-submissions/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/07ronak/leetcode-submissions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/07ronak/leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
