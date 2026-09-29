@@ -8,6 +8,8 @@ var hasValidPath = function (grid) {
     const rows = grid.length
     const cols = grid[0].length
 
+    if (grid[rows - 1][cols - 1] === "(") return false;
+
     if ((cols + rows - 1) & 1) return false
 
     const range = (cols + rows - 1) / 2
@@ -67,6 +69,6 @@ var hasValidPath = function (grid) {
             }
         }
     }
-  
+
     return dp[rows - 1][cols - 1][0]
 };
