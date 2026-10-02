@@ -4,29 +4,23 @@
  */
 var generateParenthesis = function (n) {
     const res = []
-
     bt("", 0, 0)
     return res
 
     function bt(str, open, close) {
-        if (close > open) {
+        if (open > n || close > n) {
             return
         }
 
-        if (str.length === (2 * n) && open === close) {
+        if (open === n && close === n) {
             res.push(str)
             return
         }
 
         if (open === close) {
             bt(str + "(", open + 1, close)
-            return
-        }
-
-        if (open < n) {
+        } else {
             bt(str + "(", open + 1, close)
-        }
-        if (close < n) {
             bt(str + ")", open, close + 1)
         }
     }
