@@ -4,8 +4,8 @@
  */
 var longestValidParentheses = function (s) {
     const n = s.length
-    var max = 0
-    var stack = [-1]
+    let max = 0
+    let stack = [-1]
 
     for (let i = 0; i < n; i++) {
         if (s[i] == "(") {
