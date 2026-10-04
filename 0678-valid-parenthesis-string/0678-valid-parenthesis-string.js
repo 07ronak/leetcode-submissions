@@ -24,7 +24,7 @@ var checkValidString = function (s) {
         // Even if we treat every '*' so far as '(', there are still more ')' than '('. That means we cannot fix it, because the string is like this - "*)))". Adding anything after it won't fix it.
         if (maxOpen < 0) return false
 
-        // If minOpen went below 0, it means a '*' we treated as ')' didn't have a '(' before to close/pair. That choice was wrong, so we treat that '*' as empty instead, which brings minOpen back up to 0.
+        // If minOpen went below 0, it means a '*' we treated as ')' didn't have an open '(' before it to pair with. That choice was wrong, so we treat that '*' as empty instead, which brings minOpen back up to 0.
         // (Open brackets can never be negative.)
         minOpen = Math.max(minOpen, 0)
     }
