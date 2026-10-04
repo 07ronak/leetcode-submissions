@@ -3,26 +3,25 @@
  * @return {boolean}
  */
 var checkValidString = function (s) {
-  let leftMin = 0;
-  let leftMax = 0;
+    if (s[0] === ")") return false
+    let maxUnpaired = 0
+    let minUnpaired = 0
 
-  for (const c of s) {
-    if (c === "(") {
-      leftMin++;
-      leftMax++;
-    } else if (c === ")") {
-      leftMin--;
-      leftMax--;
-    } else {
-      leftMin--;
-      leftMax++;
+    for (const c of s) {
+        if (c === "(") {
+            minUnpaired++
+            maxUnpaired++
+        } else if (c === ")") {
+            minUnpaired--
+            maxUnpaired--
+            if (maxUnpaired < 0) return false
+        } else {
+            minUnpaired--
+            maxUnpaired++
+        }
+
+        minUnpaired = Math.max(0, minUnpaired)
     }
-    if (leftMax < 0) {
-      return false;
-    }
-    if (leftMin < 0) {
-      leftMin = 0;
-    }
-  }
-  return leftMin === 0;
+
+    return minUnpaired === 0
 };
