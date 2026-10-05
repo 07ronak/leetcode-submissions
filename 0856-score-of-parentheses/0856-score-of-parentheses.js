@@ -21,6 +21,6 @@ var scoreOfParentheses = function (s) {
             stack.push(val)
         }
     }
-    console.log(stack)
+    
     return stack[0]
 };
