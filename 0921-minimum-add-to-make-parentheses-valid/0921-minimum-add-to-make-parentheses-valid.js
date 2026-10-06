@@ -3,19 +3,22 @@
  * @return {number}
  */
 var minAddToMakeValid = function (s) {
-    let stack = []
+    let count = 0
+    let open = 0
 
     for (const c of s) {
         if (c === "(") {
-            stack.push(c)
+            count++
+            open++
         } else {
-            if (stack.length && stack[stack.length - 1] === "(") {
-                stack.pop()
+            if (count && open) {
+                count--
+                open--
             } else {
-                stack.push(c)
+                count++
             }
         }
     }
 
-    return stack.length
+    return count
 };
