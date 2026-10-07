@@ -637,6 +637,7 @@
 | [0214-shortest-palindrome](https://github.com/07ronak/leetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/07ronak/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/07ronak/leetcode-submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/07ronak/leetcode-submissions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/07ronak/leetcode-submissions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/07ronak/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
@@ -720,6 +721,7 @@
 | [0226-invert-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/07ronak/leetcode-submissions/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/07ronak/leetcode-submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0743-network-delay-time](https://github.com/07ronak/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [1096-brace-expansion-ii](https://github.com/07ronak/leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1345-jump-game-iv](https://github.com/07ronak/leetcode-submissions/tree/master/1345-jump-game-iv) |
@@ -1104,6 +1106,7 @@
 | [0090-subsets-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/07ronak/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/07ronak/leetcode-submissions/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/07ronak/leetcode-submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/07ronak/leetcode-submissions/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/07ronak/leetcode-submissions/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/07ronak/leetcode-submissions/tree/master/0698-partition-to-k-equal-sum-subsets) |
