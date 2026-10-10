@@ -131,6 +131,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/07ronak/leetcode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/07ronak/leetcode-submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/07ronak/leetcode-submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/07ronak/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/07ronak/leetcode-submissions/tree/master/2402-meeting-rooms-iii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/07ronak/leetcode-submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2540-minimum-common-value](https://github.com/07ronak/leetcode-submissions/tree/master/2540-minimum-common-value) |
@@ -209,6 +210,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/07ronak/leetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/07ronak/leetcode-submissions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/07ronak/leetcode-submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/07ronak/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/07ronak/leetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/07ronak/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -371,6 +373,7 @@
 | [1834-single-threaded-cpu](https://github.com/07ronak/leetcode-submissions/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/07ronak/leetcode-submissions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1912-design-movie-rental-system](https://github.com/07ronak/leetcode-submissions/tree/master/1912-design-movie-rental-system) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/07ronak/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/07ronak/leetcode-submissions/tree/master/2402-meeting-rooms-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/07ronak/leetcode-submissions/tree/master/3620-network-recovery-pathways) |
@@ -423,6 +426,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/07ronak/leetcode-submissions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/07ronak/leetcode-submissions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/07ronak/leetcode-submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/07ronak/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/07ronak/leetcode-submissions/tree/master/2402-meeting-rooms-iii) |
 | [2784-check-if-array-is-good](https://github.com/07ronak/leetcode-submissions/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/07ronak/leetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -890,6 +894,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/07ronak/leetcode-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/07ronak/leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/07ronak/leetcode-submissions/tree/master/1851-minimum-interval-to-include-each-query) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/07ronak/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/07ronak/leetcode-submissions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/07ronak/leetcode-submissions/tree/master/3161-block-placement-queries) |
