@@ -9,18 +9,14 @@ var maxSumOfSquares = function (num, sum) {
 
     if (num === 1) return `${sum}`
 
-    let ans = ""
+    let ans = "9".repeat(Math.floor(sum / 9));
+    const r = sum % 9;
 
-    while (num) {
-        if (sum >= 9) {
-            ans += '9'
-            sum -= 9
-        } else{
-            ans += `${sum}`
-            sum = 0
-        }
-        num--
+    if (r) {
+        ans += `${r}`
     }
+
+    ans += "0".repeat(num - ans.length)
 
     return ans
 };
