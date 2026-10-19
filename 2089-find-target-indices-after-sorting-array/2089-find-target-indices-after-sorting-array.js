@@ -8,9 +8,6 @@ var targetIndices = function (nums, target) {
         if (num === target) {
             count++
         }
-        if (i < first && num > target) {
-            first--
-        }
         if (num < target) {
             first++
         }
