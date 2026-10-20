@@ -182,6 +182,7 @@
 | [3838-weighted-word-mapping](https://github.com/07ronak/leetcode-submissions/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/07ronak/leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/07ronak/leetcode-submissions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/07ronak/leetcode-submissions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
@@ -452,6 +453,7 @@
 | [3634-minimum-removals-to-balance-array](https://github.com/07ronak/leetcode-submissions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3731-find-missing-elements](https://github.com/07ronak/leetcode-submissions/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/07ronak/leetcode-submissions/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -526,6 +528,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/07ronak/leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/07ronak/leetcode-submissions/tree/master/3886-sum-of-sortable-integers) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/07ronak/leetcode-submissions/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Matrix
 |  |
@@ -783,6 +786,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/07ronak/leetcode-submissions/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/07ronak/leetcode-submissions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3886-sum-of-sortable-integers](https://github.com/07ronak/leetcode-submissions/tree/master/3886-sum-of-sortable-integers) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/07ronak/leetcode-submissions/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Prefix Sum
 |  |
