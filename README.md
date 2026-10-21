@@ -722,6 +722,7 @@
 | [3714-longest-balanced-substring-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3714-longest-balanced-substring-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/07ronak/leetcode-submissions/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/07ronak/leetcode-submissions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/07ronak/leetcode-submissions/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Trie
 |  |
