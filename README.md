@@ -83,6 +83,7 @@
 | [1094-car-pooling](https://github.com/07ronak/leetcode-submissions/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/07ronak/leetcode-submissions/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/07ronak/leetcode-submissions/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/07ronak/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/07ronak/leetcode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/07ronak/leetcode-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -255,6 +256,7 @@
 | [0437-path-sum-iii](https://github.com/07ronak/leetcode-submissions/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [0743-network-delay-time](https://github.com/07ronak/leetcode-submissions/tree/master/0743-network-delay-time) |
+| [1254-number-of-closed-islands](https://github.com/07ronak/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/07ronak/leetcode-submissions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -270,6 +272,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/07ronak/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/07ronak/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/07ronak/leetcode-submissions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/07ronak/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -545,6 +548,7 @@
 | [0427-construct-quad-tree](https://github.com/07ronak/leetcode-submissions/tree/master/0427-construct-quad-tree) |
 | [0835-image-overlap](https://github.com/07ronak/leetcode-submissions/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/07ronak/leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
+| [1254-number-of-closed-islands](https://github.com/07ronak/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/07ronak/leetcode-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/07ronak/leetcode-submissions/tree/master/1301-number-of-paths-with-max-score) |
@@ -755,6 +759,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/07ronak/leetcode-submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0743-network-delay-time](https://github.com/07ronak/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [1096-brace-expansion-ii](https://github.com/07ronak/leetcode-submissions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/07ronak/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [1345-jump-game-iv](https://github.com/07ronak/leetcode-submissions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/07ronak/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
