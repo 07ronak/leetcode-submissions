@@ -171,6 +171,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/07ronak/leetcode-submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/07ronak/leetcode-submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/07ronak/leetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/07ronak/leetcode-submissions/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/07ronak/leetcode-submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/07ronak/leetcode-submissions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -268,6 +269,7 @@
 | [3310-remove-methods-from-project](https://github.com/07ronak/leetcode-submissions/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/07ronak/leetcode-submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/07ronak/leetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -281,6 +283,7 @@
 | [2685-count-the-number-of-complete-components](https://github.com/07ronak/leetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/07ronak/leetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/07ronak/leetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/07ronak/leetcode-submissions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Hash Table
 |  |
@@ -563,6 +566,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/07ronak/leetcode-submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/07ronak/leetcode-submissions/tree/master/3225-maximum-score-from-grid-operations) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/07ronak/leetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -769,6 +773,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/07ronak/leetcode-submissions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3310-remove-methods-from-project](https://github.com/07ronak/leetcode-submissions/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/07ronak/leetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/07ronak/leetcode-submissions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Graph Theory
 |  |
