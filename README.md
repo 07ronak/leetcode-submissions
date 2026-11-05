@@ -94,6 +94,7 @@
 | [1340-jump-game-v](https://github.com/07ronak/leetcode-submissions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/07ronak/leetcode-submissions/tree/master/1345-jump-game-iv) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/07ronak/leetcode-submissions/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/07ronak/leetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/07ronak/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/07ronak/leetcode-submissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/07ronak/leetcode-submissions/tree/master/1406-stone-game-iii) |
@@ -441,6 +442,7 @@
 | [1288-remove-covered-intervals](https://github.com/07ronak/leetcode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/07ronak/leetcode-submissions/tree/master/1340-jump-game-v) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/07ronak/leetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/07ronak/leetcode-submissions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/07ronak/leetcode-submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -658,6 +660,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/07ronak/leetcode-submissions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0763-partition-labels](https://github.com/07ronak/leetcode-submissions/tree/master/0763-partition-labels) |
 | [1089-duplicate-zeros](https://github.com/07ronak/leetcode-submissions/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/07ronak/leetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1861-rotating-the-box](https://github.com/07ronak/leetcode-submissions/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -944,6 +947,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/07ronak/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/07ronak/leetcode-submissions/tree/master/1095-find-in-mountain-array) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/07ronak/leetcode-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/07ronak/leetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/07ronak/leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/07ronak/leetcode-submissions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/07ronak/leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
