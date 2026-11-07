@@ -121,6 +121,7 @@
 | [1861-rotating-the-box](https://github.com/07ronak/leetcode-submissions/tree/master/1861-rotating-the-box) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/07ronak/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/07ronak/leetcode-submissions/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/07ronak/leetcode-submissions/tree/master/1882-process-tasks-using-servers) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/07ronak/leetcode-submissions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1895-largest-magic-square](https://github.com/07ronak/leetcode-submissions/tree/master/1895-largest-magic-square) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/07ronak/leetcode-submissions/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -398,6 +399,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1834-single-threaded-cpu](https://github.com/07ronak/leetcode-submissions/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/07ronak/leetcode-submissions/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1882-process-tasks-using-servers](https://github.com/07ronak/leetcode-submissions/tree/master/1882-process-tasks-using-servers) |
 | [1912-design-movie-rental-system](https://github.com/07ronak/leetcode-submissions/tree/master/1912-design-movie-rental-system) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/07ronak/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/07ronak/leetcode-submissions/tree/master/2402-meeting-rooms-iii) |
