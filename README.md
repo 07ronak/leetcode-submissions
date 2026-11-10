@@ -184,6 +184,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/07ronak/leetcode-submissions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3693-climbing-stairs-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3693-climbing-stairs-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/07ronak/leetcode-submissions/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/07ronak/leetcode-submissions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/07ronak/leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -637,6 +638,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/07ronak/leetcode-submissions/tree/master/3620-network-recovery-pathways) |
+| [3693-climbing-stairs-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/07ronak/leetcode-submissions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/07ronak/leetcode-submissions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
