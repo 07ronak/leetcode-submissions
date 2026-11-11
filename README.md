@@ -240,6 +240,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/07ronak/leetcode-submissions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/07ronak/leetcode-submissions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -552,6 +553,7 @@
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/07ronak/leetcode-submissions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/07ronak/leetcode-submissions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/07ronak/leetcode-submissions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/07ronak/leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
