@@ -166,6 +166,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/07ronak/leetcode-submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/07ronak/leetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/07ronak/leetcode-submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/07ronak/leetcode-submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/07ronak/leetcode-submissions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/07ronak/leetcode-submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/07ronak/leetcode-submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -920,6 +921,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/07ronak/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/07ronak/leetcode-submissions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/07ronak/leetcode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/07ronak/leetcode-submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -982,6 +984,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/07ronak/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/07ronak/leetcode-submissions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/07ronak/leetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/07ronak/leetcode-submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Counting
 |  |
 | ------- |
@@ -1044,6 +1047,7 @@
 | [1871-jump-game-vii](https://github.com/07ronak/leetcode-submissions/tree/master/1871-jump-game-vii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/07ronak/leetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/07ronak/leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/07ronak/leetcode-submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/07ronak/leetcode-submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3634-minimum-removals-to-balance-array](https://github.com/07ronak/leetcode-submissions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Divide and Conquer
@@ -1174,6 +1178,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/07ronak/leetcode-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/07ronak/leetcode-submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/07ronak/leetcode-submissions/tree/master/3161-block-placement-queries) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/07ronak/leetcode-submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/07ronak/leetcode-submissions/tree/master/3719-longest-balanced-subarray-i) |
@@ -1267,6 +1272,7 @@
 | [0622-design-circular-queue](https://github.com/07ronak/leetcode-submissions/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/07ronak/leetcode-submissions/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/07ronak/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/07ronak/leetcode-submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1379,6 +1385,7 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/07ronak/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/07ronak/leetcode-submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Sweep Line
 |  |
 | ------- |
