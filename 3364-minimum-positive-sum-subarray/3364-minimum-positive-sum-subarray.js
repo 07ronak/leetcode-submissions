@@ -1,3 +1,9 @@
+/**
+ * @param {number[]} nums
+ * @param {number} l
+ * @param {number} r
+ * @return {number}
+ */
 var minimumSumSubarray = function (nums, l, r) {
     let min = Infinity;
     const n = nums.length;
@@ -10,7 +16,7 @@ var minimumSumSubarray = function (nums, l, r) {
             if (len < l) continue;
             if (len > r) break;
 
-            //if (sum === 1) return 1
+            if (sum === 1) return 1
             if (sum > 0) {
                 min = Math.min(min, sum)
             }
