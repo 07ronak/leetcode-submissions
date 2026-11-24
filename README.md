@@ -94,6 +94,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/07ronak/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/07ronak/leetcode-submissions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/07ronak/leetcode-submissions/tree/master/1345-jump-game-iv) |
+| [1352-product-of-the-last-k-numbers](https://github.com/07ronak/leetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/07ronak/leetcode-submissions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/07ronak/leetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/07ronak/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
@@ -390,6 +391,7 @@
 | [0705-design-hashset](https://github.com/07ronak/leetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/07ronak/leetcode-submissions/tree/master/0706-design-hashmap) |
 | [0981-time-based-key-value-store](https://github.com/07ronak/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
+| [1352-product-of-the-last-k-numbers](https://github.com/07ronak/leetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1912-design-movie-rental-system](https://github.com/07ronak/leetcode-submissions/tree/master/1912-design-movie-rental-system) |
 ## Heap (Priority Queue)
 |  |
@@ -527,6 +529,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/07ronak/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/07ronak/leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/07ronak/leetcode-submissions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/07ronak/leetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/07ronak/leetcode-submissions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/07ronak/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/07ronak/leetcode-submissions/tree/master/1510-stone-game-iv) |
@@ -861,6 +864,7 @@
 | [1094-car-pooling](https://github.com/07ronak/leetcode-submissions/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/07ronak/leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/07ronak/leetcode-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/07ronak/leetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/07ronak/leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/07ronak/leetcode-submissions/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/07ronak/leetcode-submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -1323,6 +1327,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/07ronak/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/07ronak/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/07ronak/leetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Game Theory
 |  |
 | ------- |
