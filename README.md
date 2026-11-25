@@ -204,6 +204,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/07ronak/leetcode-submissions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/07ronak/leetcode-submissions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/07ronak/leetcode-submissions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/07ronak/leetcode-submissions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Greedy
 |  |
@@ -376,6 +377,7 @@
 | [3731-find-missing-elements](https://github.com/07ronak/leetcode-submissions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/07ronak/leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3934-smallest-unique-subarray](https://github.com/07ronak/leetcode-submissions/tree/master/3934-smallest-unique-subarray) |
 ## Design
 |  |
 | ------- |
@@ -1002,6 +1004,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/07ronak/leetcode-submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/07ronak/leetcode-submissions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/07ronak/leetcode-submissions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3934-smallest-unique-subarray](https://github.com/07ronak/leetcode-submissions/tree/master/3934-smallest-unique-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1245,6 +1248,7 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/07ronak/leetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/07ronak/leetcode-submissions/tree/master/1392-longest-happy-prefix) |
+| [3934-smallest-unique-subarray](https://github.com/07ronak/leetcode-submissions/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
@@ -1253,6 +1257,7 @@
 | [0705-design-hashset](https://github.com/07ronak/leetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/07ronak/leetcode-submissions/tree/master/0706-design-hashmap) |
 | [1392-longest-happy-prefix](https://github.com/07ronak/leetcode-submissions/tree/master/1392-longest-happy-prefix) |
+| [3934-smallest-unique-subarray](https://github.com/07ronak/leetcode-submissions/tree/master/3934-smallest-unique-subarray) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1423,4 +1428,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/07ronak/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/07ronak/leetcode-submissions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
