@@ -1,38 +1,35 @@
 var smallestUniqueSubarray = function (nums) {
     const n = nums.length;
-    const base = 100003n;
-    const MOD = 1000000007n;
+    const base = 100003;
+    const MOD = 1000000007;
 
     const check = (len) => {
         const map = new Map();
-        let hash = 0n;
-        let unique = 0;
+        let hash = 0;
+        let power = 1;
 
-        let power = 1n;
-
-        for (let i = 1; i < len; i++) {
+        for (let i = 0; i < len; i++) {
             power = (power * base) % MOD;
         }
 
         for (let i = 0; i < n; i++) {
+            hash = (hash * base + nums[i]) % MOD;
+
             if (i >= len) {
-                hash = (hash - BigInt(nums[i - len]) 
-                    * power % MOD + MOD) % MOD;
+                hash = (hash - nums[i - len] * power) % MOD;
+                if (hash < 0) hash += MOD;
             }
 
-            hash = (hash * base + BigInt(nums[i])) % MOD;
-
             if (i >= len - 1) {
-                const prev = map.get(hash) || 0;
-
-                if (prev === 0) unique++;
-                else if (prev === 1) unique--;
-
-                map.set(hash, prev + 1);
+                map.set(hash, (map.get(hash) || 0) + 1);
             }
         }
 
-        return unique > 0;
+        for (const count of map.values()) {
+            if (count === 1) return true;
+        }
+
+        return false;
     };
 
     let low = 1, high = n;
