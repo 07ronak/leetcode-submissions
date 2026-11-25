@@ -1,38 +1,37 @@
 var smallestUniqueSubarray = function (nums) {
     const n = nums.length;
     const base = 100003;
-    const MOD = 1000000007;
+
+    const prefix = new Int32Array(n + 1);
+    const power = new Int32Array(n + 1);
+
+    power[0] = 1;
+
+    for (let i = 0; i < n; i++) {
+        prefix[i + 1] = Math.imul(prefix[i], base) + nums[i];
+        power[i + 1] = Math.imul(power[i], base);
+    }
 
     const check = (len) => {
         const map = new Map();
-        let hash = 0;
-        let power = 1;
+        const p = power[len];
 
-        for (let i = 0; i < len; i++) {
-            power = (power * base) % MOD;
+        for (let i = len; i <= n; i++) {
+            const hash = (prefix[i] - Math.imul(prefix[i - len], p)) | 0;
+
+            map.set(hash, !map.has(hash));
         }
 
-        for (let i = 0; i < n; i++) {
-            hash = (hash * base + nums[i]) % MOD;
-
-            if (i >= len) {
-                hash = (hash - nums[i - len] * power) % MOD;
-                if (hash < 0) hash += MOD;
-            }
-
-            if (i >= len - 1) {
-                map.set(hash, (map.get(hash) || 0) + 1);
-            }
-        }
-
-        for (const count of map.values()) {
-            if (count === 1) return true;
+        for (const unique of map.values()) {
+            if (unique) return true;
         }
 
         return false;
     };
 
-    let low = 1, high = n;
+    if (check(1)) return 1;
+
+    let low = 2, high = n;
 
     while (low < high) {
         const mid = (low + high) >> 1;
